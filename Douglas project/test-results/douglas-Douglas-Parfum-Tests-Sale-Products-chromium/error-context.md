@@ -1,0 +1,1762 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - generic [ref=e4]:
+      - link "Zum Hauptinhalt springen" [ref=e6] [cursor=pointer]:
+        - /url: "#main-content"
+      - generic [ref=e12]:
+        - generic [ref=e13]:
+          - generic [ref=e14]: Versandkostenfrei ab 34,95 €
+          - generic [ref=e15]: 2 Gratis-Proben nach Wahl ab 10 € ¹
+          - generic [ref=e16]: 1–3 Werktage Lieferzeit (ausgen. Douglas Partner)
+        - generic [ref=e17]:
+          - link "Goodies" [ref=e18] [cursor=pointer]:
+            - /url: /de/gwpoffer
+          - link "Beauty Card" [ref=e19] [cursor=pointer]:
+            - /url: /de/c/douglas-services/douglas-beauty-card/2604
+          - link "Filialen" [ref=e20] [cursor=pointer]:
+            - /url: /de/l
+      - generic [ref=e24]:
+        - link "Spare 20 % & löse deine Beauty Points ein! Alle Aktionsartikel sind schon reduziert. Nur noch heute!" [ref=e25] [cursor=pointer]:
+          - /url: /de/cp/angebote/angebote
+        - button "Klicke hier für mehr Informationen" [ref=e27] [cursor=pointer]:
+          - img [ref=e28]
+    - generic [ref=e36]:
+      - generic [ref=e37]:
+        - search [ref=e40]:
+          - generic [ref=e45]:
+            - searchbox "Suchen" [ref=e46]
+            - generic [ref=e47]: Gehe zurück
+            - button [disabled]:
+              - alert
+            - generic [ref=e48]: Suche ausführen
+        - generic [ref=e50]:
+          - link [ref=e51] [cursor=pointer]:
+            - /url: /de
+            - img [ref=e52]
+          - generic [ref=e54]: Zur Douglas Startseite
+        - generic [ref=e55]:
+          - generic [ref=e56]:
+            - button [ref=e57] [cursor=pointer]:
+              - img [ref=e58]
+            - generic [ref=e65]: Zum Storefinder
+          - generic [ref=e66]:
+            - button [ref=e67] [cursor=pointer]:
+              - img [ref=e68]
+            - generic [ref=e71]: Zu Meinem Kundenkonto
+          - generic [ref=e72]:
+            - button [ref=e73] [cursor=pointer]:
+              - img [ref=e74]
+            - generic [ref=e76]: Zu Meiner Wunschliste
+          - generic [ref=e77]:
+            - link [ref=e78] [cursor=pointer]:
+              - /url: /de/cart
+              - img [ref=e79]
+            - generic [ref=e83]: Zum Warenkorb
+      - navigation [ref=e84]:
+        - navigation "Hauptnavigation" [ref=e88]:
+          - generic [ref=e92]:
+            - menuitem "Angebote" [ref=e96]:
+              - link "Angebote" [ref=e97] [cursor=pointer]:
+                - /url: /de/cp/angebote/angebote
+              - button [ref=e98] [cursor=pointer]:
+                - img [ref=e99]
+              - generic [ref=e101]: Angebote Menü öffnen
+            - menuitem "Parfum" [ref=e105]:
+              - link "Parfum" [ref=e106] [cursor=pointer]:
+                - /url: /de/c/parfum/01
+              - button [ref=e107] [cursor=pointer]:
+                - img [ref=e108]
+              - generic [ref=e110]: Parfum Menü öffnen
+            - menuitem "Make-up" [ref=e114]:
+              - link "Make-up" [ref=e115] [cursor=pointer]:
+                - /url: /de/c/make-up/03
+              - button [ref=e116] [cursor=pointer]:
+                - img [ref=e117]
+              - generic [ref=e119]: Make-up Menü öffnen
+            - menuitem "Gesicht" [ref=e123]:
+              - link "Gesicht" [ref=e124] [cursor=pointer]:
+                - /url: /de/c/gesicht/12
+              - button [ref=e125] [cursor=pointer]:
+                - img [ref=e126]
+              - generic [ref=e128]: Gesicht Menü öffnen
+            - menuitem "Körper" [ref=e132]:
+              - link "Körper" [ref=e133] [cursor=pointer]:
+                - /url: /de/c/koerper/13
+              - button [ref=e134] [cursor=pointer]:
+                - img [ref=e135]
+              - generic [ref=e137]: Körper Menü öffnen
+            - menuitem "Haare" [ref=e141]:
+              - link "Haare" [ref=e142] [cursor=pointer]:
+                - /url: /de/c/haare/14
+              - button [ref=e143] [cursor=pointer]:
+                - img [ref=e144]
+              - generic [ref=e146]: Haare Menü öffnen
+            - menuitem "Home & Lifestyle" [ref=e150]:
+              - link "Home & Lifestyle" [ref=e151] [cursor=pointer]:
+                - /url: /de/c/home-lifestyle/15
+              - button [ref=e152] [cursor=pointer]:
+                - img [ref=e153]
+              - generic [ref=e155]: Home & Lifestyle Menü öffnen
+            - menuitem "MARKEN" [ref=e159]:
+              - link "MARKEN" [ref=e160] [cursor=pointer]:
+                - /url: /de/brands
+            - menuitem "Skincare Weeks" [ref=e165]:
+              - link "Skincare Weeks" [ref=e166] [cursor=pointer]:
+                - /url: /de/c/skincare-weeks/25
+              - button [ref=e167] [cursor=pointer]:
+                - img [ref=e168]
+              - generic [ref=e170]: Skincare Weeks Menü öffnen
+            - menuitem "Douglas Collection" [ref=e174]:
+              - link "Douglas Collection" [ref=e175] [cursor=pointer]:
+                - /url: /de/b/douglas-collection/b9834
+              - button [ref=e176] [cursor=pointer]:
+                - img [ref=e177]
+              - generic [ref=e179]: Douglas Collection Menü öffnen
+            - menuitem "Geschenkgutschein" [ref=e183]:
+              - link "Geschenkgutschein" [ref=e184] [cursor=pointer]:
+                - /url: /de/c/geschenke/geschenkgutschein/0809
+            - menuitem "NEU" [ref=e189]:
+              - link "NEU" [ref=e190] [cursor=pointer]:
+                - /url: /de/c/neuheiten/09
+              - button [ref=e191] [cursor=pointer]:
+                - img [ref=e192]
+              - generic [ref=e194]: NEU Menü öffnen
+            - menuitem "SALE" [ref=e198]:
+              - link "SALE" [ref=e199] [cursor=pointer]:
+                - /url: /de/c/sale/05
+              - button [ref=e200] [cursor=pointer]:
+                - img [ref=e201]
+              - generic [ref=e203]: SALE Menü öffnen
+            - menuitem "Outlet" [ref=e207]:
+              - link "Outlet" [ref=e208] [cursor=pointer]:
+                - /url: /de/c/sale/outlet/0581
+            - menuitem "Nachhaltigkeit" [ref=e213]:
+              - link "Nachhaltigkeit" [ref=e214] [cursor=pointer]:
+                - /url: /de/c/nachhaltigkeit/59
+              - button [ref=e215] [cursor=pointer]:
+                - img [ref=e216]
+              - generic [ref=e218]: Nachhaltigkeit Menü öffnen
+            - menuitem "VIDEOS" [ref=e222]:
+              - link "VIDEOS" [ref=e223] [cursor=pointer]:
+                - /url: /de/cp/videos/video-overview
+            - menuitem "Gesundheit & Wellness" [ref=e228]:
+              - link "Gesundheit & Wellness" [ref=e229] [cursor=pointer]:
+                - /url: /de/c/gesundheit/07
+              - button [ref=e230] [cursor=pointer]:
+                - img [ref=e231]
+              - generic [ref=e233]: Gesundheit & Wellness Menü öffnen
+            - menuitem "LUXUS" [ref=e237]:
+              - link "LUXUS" [ref=e238] [cursor=pointer]:
+                - /url: /de/c/luxuswelt/29
+              - button [ref=e239] [cursor=pointer]:
+                - img [ref=e240]
+              - generic [ref=e242]: LUXUS Menü öffnen
+  - main [ref=e246]:
+    - generic [ref=e249]:
+      - generic [ref=e254]:
+        - generic:
+          - link "Überspringen":
+            - /url: /de
+        - generic [ref=e255]:
+          - generic [ref=e257]:
+            - generic [ref=e261]:
+              - 'link "Heute im Angebot: 20% Rabatt auf alle Aktionsartikel während der Skincare Weeks! Löse jetzt deine Beauty Points ein und shoppe!" [ref=e263] [cursor=pointer]':
+                - /url: /de/cp/angebote/angebote
+                - 'img "Heute im Angebot: 20% Rabatt auf alle Aktionsartikel während der Skincare Weeks! Löse jetzt deine Beauty Points ein und shoppe!" [ref=e266]'
+              - button "Klicke hier für mehr Informationen" [ref=e268] [cursor=pointer]:
+                - img [ref=e269]
+            - generic [ref=e276]:
+              - link "Hero-XL-3072x1314_2.jpg" [ref=e278] [cursor=pointer]:
+                - /url: /de/c/skincare-weeks/25
+                - generic [ref=e279]:
+                  - alert [ref=e281]
+                  - img "Hero-XL-3072x1314_2.jpg" [ref=e283]
+              - button "Klicke hier für mehr Informationen" [ref=e285] [cursor=pointer]:
+                - img [ref=e286]
+            - link "SD-81642_DE_Teaser_DR-SVS_Rabattaktion_Hero-XL-3072x1314.jpg" [ref=e295] [cursor=pointer]:
+              - /url: /de/b/dr-susanne-von-schmiedeberg/youth-booster/b565905
+              - generic [ref=e296]:
+                - alert [ref=e298]
+                - img "SD-81642_DE_Teaser_DR-SVS_Rabattaktion_Hero-XL-3072x1314.jpg" [ref=e300]
+            - generic [ref=e304]:
+              - 'link "Entdecken Sie das Rituals Homme Duo Geschenkset: Männerpflege ab 39 € mit dem Code CARE." [ref=e306] [cursor=pointer]':
+                - /url: /de/c/menbeauty/pflege-wellness/3401
+                - generic [ref=e307]:
+                  - alert [ref=e309]
+                  - 'img "Entdecken Sie das Rituals Homme Duo Geschenkset: Männerpflege ab 39 € mit dem Code CARE." [ref=e311]'
+              - button "Klicke hier für mehr Informationen" [ref=e313] [cursor=pointer]:
+                - img [ref=e314]
+            - link "Entdecke die Douglas Beauty Card und rette deine Beauty Points, bevor sie verfallen – attraktive Direktrabatte warten. Shoppen &amp; Sparen!" [ref=e323] [cursor=pointer]:
+              - /url: /de/c/skincare-weeks/25
+              - generic [ref=e324]:
+                - alert [ref=e326]
+                - img "Entdecke die Douglas Beauty Card und rette deine Beauty Points, bevor sie verfallen – attraktive Direktrabatte warten. Shoppen &amp; Sparen!" [ref=e328]
+            - generic [ref=e332]:
+              - 'link "Heute im Angebot: 20% Rabatt auf alle Aktionsartikel während der Skincare Weeks! Löse jetzt deine Beauty Points ein und shoppe!" [ref=e334] [cursor=pointer]':
+                - /url: /de/cp/angebote/angebote
+                - 'img "Heute im Angebot: 20% Rabatt auf alle Aktionsartikel während der Skincare Weeks! Löse jetzt deine Beauty Points ein und shoppe!" [ref=e337]'
+              - button "Klicke hier für mehr Informationen" [ref=e339] [cursor=pointer]:
+                - img [ref=e340]
+          - button [disabled]:
+            - img
+          - button [ref=e347] [cursor=pointer]:
+            - img [ref=e348]
+          - group [ref=e350]:
+            - button "Slide 1" [ref=e351] [cursor=pointer]
+            - button "Slide 2" [ref=e353] [cursor=pointer]
+            - button "Slide 3" [ref=e355] [cursor=pointer]
+            - button "Slide 4" [ref=e357] [cursor=pointer]
+            - button "Slide 5" [ref=e359] [cursor=pointer]
+      - generic [ref=e365]:
+        - generic:
+          - link "Überspringen":
+            - /url: /de
+        - generic [ref=e366]:
+          - generic [ref=e368]:
+            - link "Zu CHANEL Produkten" [ref=e372] [cursor=pointer]:
+              - /url: /de/b/chanel/b0007
+              - img "Zu CHANEL Produkten" [ref=e373]
+            - link "Zu DIOR Produkten" [ref=e377] [cursor=pointer]:
+              - /url: /de/b/dior/b0690
+              - img "Zu DIOR Produkten" [ref=e378]
+            - link "Zu Douglas Collection Produkten" [ref=e382] [cursor=pointer]:
+              - /url: /de/b/douglas-collection/b9834
+              - img "Zu Douglas Collection Produkten" [ref=e383]
+            - link "Zu Lancôme Produkten" [ref=e387] [cursor=pointer]:
+              - /url: /de/b/lancome/b0114
+              - img "Zu Lancôme Produkten" [ref=e388]
+            - link "Zu Estée Lauder Produkten" [ref=e392] [cursor=pointer]:
+              - /url: /de/b/estee-lauder/b0115
+              - img "Zu Estée Lauder Produkten" [ref=e393]
+            - link "Zu Benefit Produkten" [ref=e397] [cursor=pointer]:
+              - /url: /de/b/benefit/b1001
+              - img "Zu Benefit Produkten" [ref=e398]
+            - link "Zu Charlotte Tilbury Produkten" [ref=e402] [cursor=pointer]:
+              - /url: /de/b/charlotte-tilbury/b7867
+              - img "Zu Charlotte Tilbury Produkten" [ref=e403]
+            - link "Zu Sol de Janeiro Produkten" [ref=e407] [cursor=pointer]:
+              - /url: /de/b/sol-de-janeiro/b5423
+              - img "Zu Sol de Janeiro Produkten" [ref=e408]
+            - link "Zu Rituals Produkten" [ref=e412] [cursor=pointer]:
+              - /url: /de/b/rituals/b1779
+              - img "Zu Rituals Produkten" [ref=e413]
+            - link "Zu Prada Produkten" [ref=e417] [cursor=pointer]:
+              - /url: /de/b/prada/b0692
+              - img "Zu Prada Produkten" [ref=e418]
+            - link "Zu Kérastase Produkten" [ref=e422] [cursor=pointer]:
+              - /url: /de/b/kerastase/b0145
+              - img "Zu Kérastase Produkten" [ref=e423]
+            - link "Zu NEST NEW YORK Produkten" [ref=e427] [cursor=pointer]:
+              - /url: /de/b/nest-new-york/b9400
+              - img "Zu NEST NEW YORK Produkten" [ref=e428]
+            - link "Zu IRÄYE Produkten" [ref=e432] [cursor=pointer]:
+              - /url: /de/b/iraye/b9434
+              - img "Zu IRÄYE Produkten" [ref=e433]
+            - link "Zu drybar Produkten" [ref=e437] [cursor=pointer]:
+              - /url: /de/b/drybar/bf749
+              - img "Zu drybar Produkten" [ref=e438]
+            - link "Zu Yves Saint Laurent Produkten" [ref=e442] [cursor=pointer]:
+              - /url: /de/b/yves-saint-laurent/b0611
+              - img "Zu Yves Saint Laurent Produkten" [ref=e443]
+            - link "Zu Carolina Herrera Produkten" [ref=e447] [cursor=pointer]:
+              - /url: /de/b/carolina-herrera/b0061
+              - img "Zu Carolina Herrera Produkten" [ref=e448]
+            - link "Zu Too Faced Produkten" [ref=e452] [cursor=pointer]:
+              - /url: /de/b/too-faced/b5429
+              - img "Zu Too Faced Produkten" [ref=e453]
+            - link "Zu Narciso Rodriguez Produkten" [ref=e457] [cursor=pointer]:
+              - /url: /de/b/narciso-rodriguez/b2250
+              - img "Zu Narciso Rodriguez Produkten" [ref=e458]
+          - button [disabled]:
+            - img
+          - button [ref=e462] [cursor=pointer]:
+            - img [ref=e463]
+      - generic [ref=e468]:
+        - heading "HIGHLIGHTS UNSERER MARKEN" [level=3] [ref=e470]
+        - generic [ref=e471]:
+          - generic:
+            - link "Überspringen":
+              - /url: /de
+          - generic [ref=e474]:
+            - generic [ref=e478]:
+              - link "Nahaufnahme einer Frau, die mit einem Pinsel Concealer unter ihrem Auge aufträgt, mit zwei Charlotte Tilbury Airbrush Concealern im Hintergrund. Neu" [ref=e480] [cursor=pointer]:
+                - /url: /de/p/5011994302
+                - generic [ref=e481]:
+                  - alert [ref=e483]
+                  - img "Nahaufnahme einer Frau, die mit einem Pinsel Concealer unter ihrem Auge aufträgt, mit zwei Charlotte Tilbury Airbrush Concealern im Hintergrund." [ref=e485]
+                - generic [ref=e487]: Neu
+              - generic [ref=e488]:
+                - link [ref=e489] [cursor=pointer]:
+                  - /url: /de/b/charlotte-tilbury/b7867
+                  - generic:
+                    - generic:
+                      - alert
+                - link "AIRBRUSH FLAWLESS BLUR CONCEALER Freu dich auf den neuen Concealer von Charlotte Tilbury mit leichter Textur, hoher Deckkraft und bis zu 24 Stunden Halt." [ref=e491] [cursor=pointer]:
+                  - /url: /de/p/5011994302
+                  - heading "AIRBRUSH FLAWLESS BLUR CONCEALER" [level=2] [ref=e492]
+                  - paragraph [ref=e493]: Freu dich auf den neuen Concealer von Charlotte Tilbury mit leichter Textur, hoher Deckkraft und bis zu 24 Stunden Halt.
+            - generic [ref=e497]:
+              - link "Eine blonde Frau im schwarzen Sportoutfit sitzt auf einer Tribüne und hält Biotherm Aquasource Electrolyte Dewy Gel 100H in der Hand, das für eine intensive Feuchtigkeitspflege sorgt. Neu" [ref=e499] [cursor=pointer]:
+                - /url: /de/p/5011873121
+                - generic [ref=e500]:
+                  - alert [ref=e502]
+                  - img "Eine blonde Frau im schwarzen Sportoutfit sitzt auf einer Tribüne und hält Biotherm Aquasource Electrolyte Dewy Gel 100H in der Hand, das für eine intensive Feuchtigkeitspflege sorgt." [ref=e504]
+                - generic [ref=e506]: Neu
+              - generic [ref=e507]:
+                - link [ref=e508] [cursor=pointer]:
+                  - /url: /de/b/biotherm/b0053
+                  - generic:
+                    - generic:
+                      - alert
+                - link "Aquasource+ Electrolyte Dewy Gel Elektrolyte für deine Hautpflege – für eine starke Performance, langanhaltende Feuchtigkeit und glatter wirkende Haut." [ref=e510] [cursor=pointer]:
+                  - /url: /de/p/5011873121
+                  - heading "Aquasource+ Electrolyte Dewy Gel" [level=2] [ref=e511]
+                  - paragraph [ref=e512]: Elektrolyte für deine Hautpflege – für eine starke Performance, langanhaltende Feuchtigkeit und glatter wirkende Haut.
+            - generic [ref=e516]:
+              - link "Dr. Susanne von Schmiedeberg DERMACOSMETICS Youth Booster A.G.E.-Reverse Double Serum mit L-Carnosin, Hyaluron und Yuyuba-Extrakt in silberner Verpackung." [ref=e518] [cursor=pointer]:
+                - /url: "/de/b/dr-susanne-von-schmiedeberg/youth-booster/b565905\t\t\t\t\t\t"
+                - generic [ref=e519]:
+                  - alert [ref=e521]
+                  - img "Dr. Susanne von Schmiedeberg DERMACOSMETICS Youth Booster A.G.E.-Reverse Double Serum mit L-Carnosin, Hyaluron und Yuyuba-Extrakt in silberner Verpackung." [ref=e523]
+              - generic [ref=e524]:
+                - link [ref=e525] [cursor=pointer]:
+                  - /url: /de/b/dr-susanne-von-schmiedeberg/b5659
+                  - generic:
+                    - generic:
+                      - alert
+                - link "Youth Booster Entdecke das A.G.E.-Reverse Double Serum und die A.G.E.-Reverse Cream mit dem Wunder-Wirkstoff L-Carnosine!" [ref=e527] [cursor=pointer]:
+                  - /url: "/de/b/dr-susanne-von-schmiedeberg/youth-booster/b565905\t\t\t\t\t\t"
+                  - heading "Youth Booster" [level=2] [ref=e528]
+                  - paragraph [ref=e529]: Entdecke das A.G.E.-Reverse Double Serum und die A.G.E.-Reverse Cream mit dem Wunder-Wirkstoff L-Carnosine!
+      - generic [ref=e537]:
+        - generic:
+          - link "Überspringen":
+            - /url: /de
+        - generic [ref=e540]:
+          - link "JETZT ENTDECKEN" [ref=e546] [cursor=pointer]:
+            - /url: /de/cp/de-product-safety-recall-neonail/de-product-safety-recall-neonail
+            - alert [ref=e549]
+          - link "JETZT ENTDECKEN" [ref=e556] [cursor=pointer]:
+            - /url: /de/cp/de-product-safety-recall-neonail/de-product-safety-recall-neonail
+            - alert [ref=e559]
+          - link "JETZT ENTDECKEN" [ref=e566] [cursor=pointer]:
+            - /url: /de/cp/de-product-safety-recall-neonail/de-product-safety-recall-neonail
+            - alert [ref=e569]
+      - generic [ref=e577] [cursor=pointer]:
+        - link "Ein Smartphone mit dem Douglas-Logo wird von zwei Händen gehalten, der Bildschirm ist hellblau und das Design ist minimalistisch." [ref=e578]:
+          - /url: /de/c/douglas-services/app-benefits/2605
+          - generic [ref=e579]:
+            - alert [ref=e581]
+            - img "Ein Smartphone mit dem Douglas-Logo wird von zwei Händen gehalten, der Bildschirm ist hellblau und das Design ist minimalistisch." [ref=e583]
+        - generic [ref=e586]:
+          - heading "Hol dir unsere App!" [level=2] [ref=e588]
+          - paragraph [ref=e589]: "Noch smarter, noch persönlicher, noch komfortabler: Entdecke die ganze Beauty-Welt in einer App."
+          - link "MEHR ERFAHREN" [ref=e591]:
+            - /url: /de/c/douglas-services/app-benefits/2605
+      - generic [ref=e595]:
+        - heading "HIGHLIGHTS UNSERER MARKEN" [level=3] [ref=e597]
+        - generic [ref=e598]:
+          - generic:
+            - link "Überspringen":
+              - /url: /de
+          - generic [ref=e601]:
+            - generic [ref=e605]:
+              - link "DACH_Narciso Rodriguez_FOR-HER_PURE-MUSC-BLANC_KV_2026_DESKTOP_1170x1170.jpg" [ref=e607] [cursor=pointer]:
+                - /url: /de/p/5011986001
+                - generic [ref=e608]:
+                  - alert [ref=e610]
+                  - img "DACH_Narciso Rodriguez_FOR-HER_PURE-MUSC-BLANC_KV_2026_DESKTOP_1170x1170.jpg" [ref=e612]
+              - generic [ref=e613]:
+                - link [ref=e614] [cursor=pointer]:
+                  - /url: /de/b/narciso-rodriguez/b2250
+                  - generic:
+                    - generic:
+                      - alert
+                - link "Ein neuer, intensiver Chypre-Duft Erlebe for her PURE MUSC BLANC – eine Komposition, die sanfte Frische mit strahlender Wärme verbindet." [ref=e616] [cursor=pointer]:
+                  - /url: /de/p/5011986001
+                  - heading "Ein neuer, intensiver Chypre-Duft" [level=2] [ref=e617]
+                  - paragraph [ref=e618]: Erlebe for her PURE MUSC BLANC – eine Komposition, die sanfte Frische mit strahlender Wärme verbindet.
+            - generic [ref=e622]:
+              - link "SDJ_DOUGLAS_Static Rosa &amp; C91 E-COM_Brand Highlight Teaser_1170x1170.jpg" [ref=e624] [cursor=pointer]:
+                - /url: /de/p/5011958060
+                - generic [ref=e625]:
+                  - alert [ref=e627]
+                  - img "SDJ_DOUGLAS_Static Rosa &amp; C91 E-COM_Brand Highlight Teaser_1170x1170.jpg" [ref=e629]
+              - generic [ref=e630]:
+                - link [ref=e631] [cursor=pointer]:
+                  - /url: /de/b/sol-de-janeiro/b5423
+                  - generic:
+                    - generic:
+                      - alert
+                - 'link "Die Rose, die du nicht erwartet hast Rosa Charmosa™ Dewy Cream & Cheirosa 91 Mist: Rio-Rose, Passionsfrucht und Honig für eine strahlende Haut." [ref=e633] [cursor=pointer]':
+                  - /url: /de/p/5011958060
+                  - heading "Die Rose, die du nicht erwartet hast" [level=2] [ref=e634]
+                  - paragraph [ref=e635]: "Rosa Charmosa™ Dewy Cream & Cheirosa 91 Mist: Rio-Rose, Passionsfrucht und Honig für eine strahlende Haut."
+            - generic [ref=e639]:
+              - link "Eine Frau mit glänzenden Lippen hält einen schwarzen Parfümflakon mit silbernen Wirbeln in den Händen, die mit auffälligen Ringen geschmückt sind." [ref=e641] [cursor=pointer]:
+                - /url: /de/p/5011715015?variant=1214398
+                - generic [ref=e642]:
+                  - alert [ref=e644]
+                  - img "Eine Frau mit glänzenden Lippen hält einen schwarzen Parfümflakon mit silbernen Wirbeln in den Händen, die mit auffälligen Ringen geschmückt sind." [ref=e646]
+              - generic [ref=e647]:
+                - link [ref=e648] [cursor=pointer]:
+                  - /url: /de/b/kylie-jenner-fragrances/b8829
+                  - generic:
+                    - generic:
+                      - alert
+                - link "COSMIC KYLIE JENNER 2.0 Erwecke die Frische eines neuen Tagesbeginns." [ref=e650] [cursor=pointer]:
+                  - /url: /de/p/5011715015?variant=1214398
+                  - heading "COSMIC KYLIE JENNER 2.0" [level=2] [ref=e651]
+                  - paragraph [ref=e652]: Erwecke die Frische eines neuen Tagesbeginns.
+      - generic [ref=e659]:
+        - generic [ref=e661]:
+          - link [ref=e662] [cursor=pointer]:
+            - /url: /de/b/armani/b0014
+          - generic [ref=e663]:
+            - 'heading "NEU: STRONGER WITH YOU POWERFULLY" [level=2] [ref=e665]'
+            - link "Jetzt entdecken" [ref=e666] [cursor=pointer]:
+              - /url: /de/search?q=emporio%20armani%20düfte
+        - generic [ref=e668]:
+          - link "Ein junger Mann mit blonden Haaren und goldenen Ketten präsentiert die Duftkollektion &quot;Stronger With You&quot; von Emporio Armani, bestehend aus den Varianten &quot;Powerfully&quot; und &quot;Intensely&quot;." [ref=e670] [cursor=pointer]:
+            - /url: /de/search?q=emporio armani düfte
+            - generic [ref=e671]:
+              - alert [ref=e673]
+              - img "Ein junger Mann mit blonden Haaren und goldenen Ketten präsentiert die Duftkollektion &quot;Stronger With You&quot; von Emporio Armani, bestehend aus den Varianten &quot;Powerfully&quot; und &quot;Intensely&quot;." [ref=e675]
+          - tabpanel "Jetzt entdecken" [ref=e676]:
+            - generic [ref=e678]:
+              - generic:
+                - link "Überspringen":
+                  - /url: /de
+              - generic [ref=e679]:
+                - generic [ref=e681]:
+                  - generic [ref=e685]:
+                    - link "Armani Emporio Armani Stronger With You Powerfully Eau de Parfum Empfohlener Verkaufspreis 89,00 € Aktuell 71,20 € 50 Milliliter Preis 1.424,00 € pro 1 Liter" [ref=e687] [cursor=pointer]:
+                      - /url: /de/p/5011994014
+                      - img "Eau de Parfum für Männlich Emporio Armani Stronger With You Powerfully 50 ml":
+                        - generic:
+                          - generic:
+                            - alert
+                        - generic: Eau de Parfum für Männlich Emporio Armani Stronger With You Powerfully 50 ml
+                      - generic [ref=e689]:
+                        - generic [ref=e690]:
+                          - generic [ref=e691]: Armani
+                          - generic [ref=e692]:
+                            - generic [ref=e693]: Emporio Armani
+                            - generic [ref=e694]: Stronger With You Powerfully
+                            - generic [ref=e695]: Eau de Parfum
+                        - generic [ref=e696]:
+                          - generic [ref=e699]:
+                            - generic [ref=e700]:
+                              - generic [ref=e701]: UVP
+                              - generic [ref=e702]: 89,00 €
+                            - generic [ref=e704]: 71,20 €
+                          - generic "50 Milliliter Preis 1.424,00 € pro 1 Liter" [ref=e708]: 50 ml (1.424,00 € / 1 l)
+                    - button "Zur Wunschliste hinzufügen" [ref=e710] [cursor=pointer]:
+                      - img [ref=e711]
+                  - generic [ref=e717]:
+                    - 'link "Armani Emporio Armani Stronger With YOU Intensely Eau de Parfum Empfohlener Verkaufspreis 125,00 € Preis ohne Rabatt 79,99 € Code: Online Rabattierter Preis 70,66 € Niedrigster Preis der letzten 30 Tage 69,90 € 100 Milliliter Preis 706,60 € pro 1 Liter" [ref=e719] [cursor=pointer]':
+                      - /url: /de/p/3001052351?variant=063552
+                      - img "Eau de Parfum für Männlich Emporio Armani Stronger With YOU Intensely 100 ml":
+                        - generic:
+                          - generic:
+                            - alert
+                        - generic: Eau de Parfum für Männlich Emporio Armani Stronger With YOU Intensely 100 ml
+                      - generic [ref=e721]:
+                        - generic [ref=e722]:
+                          - generic [ref=e723]: Armani
+                          - generic [ref=e724]:
+                            - generic [ref=e725]: Emporio Armani
+                            - generic [ref=e726]: Stronger With YOU Intensely
+                            - generic [ref=e727]: Eau de Parfum
+                        - generic [ref=e728]:
+                          - generic [ref=e730]:
+                            - generic [ref=e731]:
+                              - generic [ref=e732]:
+                                - generic [ref=e733]: UVP
+                                - generic [ref=e734]: 125,00 €
+                              - generic [ref=e737]: 79,99 €
+                              - generic [ref=e739]:
+                                - generic [ref=e740]:
+                                  - text: "Code:"
+                                  - generic [ref=e741]: Online
+                                - generic "Rabattierter Preis 70,66 €"
+                                - paragraph [ref=e742]: 70,66 €
+                            - generic [ref=e743]:
+                              - generic [ref=e744]: 30-Tage-Tiefstpreis
+                              - generic [ref=e745]: 69,90 €
+                          - generic "100 Milliliter Preis 706,60 € pro 1 Liter" [ref=e749]: 100 ml (706,60 € / 1 l)
+                    - button "Zur Wunschliste hinzufügen" [ref=e751] [cursor=pointer]:
+                      - img [ref=e752]
+                  - generic [ref=e758]:
+                    - 'link "Armani Emporio Armani Stronger With You Eau de Toilette Empfohlener Verkaufspreis 109,00 € Preis ohne Rabatt 69,99 € Code: Online Rabattierter Preis 64,17 € Niedrigster Preis der letzten 30 Tage 64,84 € 100 Milliliter Preis 641,70 € pro 1 Liter" [ref=e760] [cursor=pointer]':
+                      - /url: /de/p/3001037119?variant=969178
+                      - img "Eau de Toilette für Männlich Emporio Armani Stronger With You 100 ml":
+                        - generic:
+                          - generic:
+                            - alert
+                        - generic: Eau de Toilette für Männlich Emporio Armani Stronger With You 100 ml
+                      - generic [ref=e762]:
+                        - generic [ref=e763]:
+                          - generic [ref=e764]: Armani
+                          - generic [ref=e765]:
+                            - generic [ref=e766]: Emporio Armani
+                            - generic [ref=e767]: Stronger With You
+                            - generic [ref=e768]: Eau de Toilette
+                        - generic [ref=e769]:
+                          - generic [ref=e771]:
+                            - generic [ref=e772]:
+                              - generic [ref=e773]:
+                                - generic [ref=e774]: UVP
+                                - generic [ref=e775]: 109,00 €
+                              - generic [ref=e778]: 69,99 €
+                              - generic [ref=e780]:
+                                - generic [ref=e781]:
+                                  - text: "Code:"
+                                  - generic [ref=e782]: Online
+                                - generic "Rabattierter Preis 64,17 €"
+                                - paragraph [ref=e783]: 64,17 €
+                            - generic [ref=e784]:
+                              - generic [ref=e785]: 30-Tage-Tiefstpreis
+                              - generic [ref=e786]: 64,84 €
+                          - generic "100 Milliliter Preis 641,70 € pro 1 Liter" [ref=e790]: 100 ml (641,70 € / 1 l)
+                    - button "Zur Wunschliste hinzufügen" [ref=e792] [cursor=pointer]:
+                      - img [ref=e793]
+                  - generic [ref=e799]:
+                    - link "Armani Emporio Armani Stronger with YOU Absolutely Parfum Empfohlener Verkaufspreis 132,00 € Aktuell 76,85 € 100 Milliliter Preis 768,50 € pro 1 Liter" [ref=e801] [cursor=pointer]:
+                      - /url: /de/p/5009163020?variant=796971
+                      - img "Parfum für Männlich Emporio Armani Stronger with YOU Absolutely 100 ml":
+                        - generic:
+                          - generic:
+                            - alert
+                        - generic: Parfum für Männlich Emporio Armani Stronger with YOU Absolutely 100 ml
+                      - generic [ref=e803]:
+                        - generic [ref=e804]:
+                          - generic [ref=e805]: Armani
+                          - generic [ref=e806]:
+                            - generic [ref=e807]: Emporio Armani
+                            - generic [ref=e808]: Stronger with YOU Absolutely
+                            - generic [ref=e809]: Parfum
+                        - generic [ref=e810]:
+                          - generic [ref=e813]:
+                            - generic [ref=e814]:
+                              - generic [ref=e815]: UVP
+                              - generic [ref=e816]: 132,00 €
+                            - generic [ref=e818]: 76,85 €
+                          - generic "100 Milliliter Preis 768,50 € pro 1 Liter" [ref=e822]: 100 ml (768,50 € / 1 l)
+                    - button "Zur Wunschliste hinzufügen" [ref=e824] [cursor=pointer]:
+                      - img [ref=e825]
+                  - generic [ref=e831]:
+                    - link "Armani Emporio Armani Stronger With YOU Parfum Empfohlener Verkaufspreis 147,00 € Aktuell 117,00 € 100 Milliliter Preis 1.170,00 € pro 1 Liter" [ref=e833] [cursor=pointer]:
+                      - /url: /de/p/5011694012?variant=1217085
+                      - img "Parfum für Männlich Emporio Armani Stronger With YOU 100 ml":
+                        - generic:
+                          - generic:
+                            - alert
+                        - generic: Parfum für Männlich Emporio Armani Stronger With YOU 100 ml
+                      - generic [ref=e835]:
+                        - generic [ref=e836]:
+                          - generic [ref=e837]: Armani
+                          - generic [ref=e838]:
+                            - generic [ref=e839]: Emporio Armani
+                            - generic [ref=e840]: Stronger With YOU
+                            - generic [ref=e841]: Parfum
+                        - generic [ref=e842]:
+                          - generic [ref=e845]:
+                            - generic [ref=e846]:
+                              - generic [ref=e847]: UVP
+                              - generic [ref=e848]: 147,00 €
+                            - generic [ref=e850]: 117,00 €
+                          - generic "100 Milliliter Preis 1.170,00 € pro 1 Liter" [ref=e854]: 100 ml (1.170,00 € / 1 l)
+                    - button "Zur Wunschliste hinzufügen" [ref=e856] [cursor=pointer]:
+                      - img [ref=e857]
+                  - generic [ref=e863]:
+                    - link "Armani Emporio Armani Stronger with You Amber Eau de Parfum Empfohlener Verkaufspreis 132,00 € Aktuell 105,60 € 100 Milliliter Preis 1.056,00 € pro 1 Liter" [ref=e865] [cursor=pointer]:
+                      - /url: /de/p/5011887157
+                      - img "Eau de Parfum für Männlich Emporio Armani Stronger with You Amber 100 ml":
+                        - generic:
+                          - generic:
+                            - alert
+                        - generic: Eau de Parfum für Männlich Emporio Armani Stronger with You Amber 100 ml
+                      - generic [ref=e867]:
+                        - generic [ref=e868]:
+                          - generic [ref=e869]: Armani
+                          - generic [ref=e870]:
+                            - generic [ref=e871]: Emporio Armani
+                            - generic [ref=e872]: Stronger with You Amber
+                            - generic [ref=e873]: Eau de Parfum
+                        - generic [ref=e874]:
+                          - generic [ref=e877]:
+                            - generic [ref=e878]:
+                              - generic [ref=e879]: UVP
+                              - generic [ref=e880]: 132,00 €
+                            - generic [ref=e882]: 105,60 €
+                          - generic "100 Milliliter Preis 1.056,00 € pro 1 Liter" [ref=e886]: 100 ml (1.056,00 € / 1 l)
+                    - button "Zur Wunschliste hinzufügen" [ref=e888] [cursor=pointer]:
+                      - img [ref=e889]
+                  - generic [ref=e895]:
+                    - link "Armani Emporio Armani Because It’s You Eau de Parfum Empfohlener Verkaufspreis 140,00 € Aktuell 94,00 € 100 Milliliter Preis 940,00 € pro 1 Liter" [ref=e897] [cursor=pointer]:
+                      - /url: /de/p/3001037116?variant=969173
+                      - img "Eau de Parfum für Weiblich Emporio Armani Because It’s You 100 ml":
+                        - generic:
+                          - generic:
+                            - alert
+                        - generic: Eau de Parfum für Weiblich Emporio Armani Because It’s You 100 ml
+                      - generic [ref=e899]:
+                        - generic [ref=e900]:
+                          - generic [ref=e901]: Armani
+                          - generic [ref=e902]:
+                            - generic [ref=e903]: Emporio Armani
+                            - generic [ref=e904]: Because It’s You
+                            - generic [ref=e905]: Eau de Parfum
+                        - generic [ref=e906]:
+                          - generic [ref=e909]:
+                            - generic [ref=e910]:
+                              - generic [ref=e911]: UVP
+                              - generic [ref=e912]: 140,00 €
+                            - generic [ref=e914]: 94,00 €
+                          - generic "100 Milliliter Preis 940,00 € pro 1 Liter" [ref=e918]: 100 ml (940,00 € / 1 l)
+                    - button "Zur Wunschliste hinzufügen" [ref=e920] [cursor=pointer]:
+                      - img [ref=e921]
+                - button [disabled]:
+                  - img
+                - button [ref=e927] [cursor=pointer]:
+                  - img [ref=e928]
+      - generic [ref=e934]:
+        - generic [ref=e935]:
+          - heading "UNSERE SERVICES IN DER FILIALE" [level=2] [ref=e936]
+          - button "Finde deine Filiale" [ref=e937] [cursor=pointer]:
+            - generic [ref=e938]:
+              - img [ref=e939]
+              - strong [ref=e946]: Finde deine Filiale
+        - region "Teaser slide" [ref=e947]:
+          - generic [ref=e948]:
+            - link "Eine Person öffnet eine hellgraue Geschenkbox, die mit einem weißen Band und einer Schleife verziert ist, ihre Hände sind mit filigranen Ringen geschmückt." [ref=e949] [cursor=pointer]:
+              - /url: /de/l
+              - img "Eine Person öffnet eine hellgraue Geschenkbox, die mit einem weißen Band und einer Schleife verziert ist, ihre Hände sind mit filigranen Ringen geschmückt." [ref=e951]
+            - heading "GESCHENKVERPACKUNG" [level=3] [ref=e953]
+            - paragraph [ref=e954]: "So schön kann Schenken sein: Unsere Beauty Experts finden mit dir die perfekten Geschenke und verpacken sie auf Wunsch kostenlos im luxuriösen Douglas-Design."
+            - link "Filiale finden" [ref=e955] [cursor=pointer]:
+              - /url: /de/l
+          - generic [ref=e956]:
+            - link "Eine stilisierte Aufnahme zeigt eine Douglas-Einkaufstasche, die von zwei Händen gehalten wird, wobei die Hände mit auffälligen Armreifen und Ringen geschmückt sind, alles in einem eleganten Schwarz-Weiß gehalten." [ref=e957] [cursor=pointer]:
+              - /url: /de/c/douglas-services/click-collect/2601
+              - img "Eine stilisierte Aufnahme zeigt eine Douglas-Einkaufstasche, die von zwei Händen gehalten wird, wobei die Hände mit auffälligen Armreifen und Ringen geschmückt sind, alles in einem eleganten Schwarz-Weiß gehalten." [ref=e959]
+            - heading "CLICK & COLLECT" [level=3] [ref=e961]
+            - paragraph [ref=e962]: Bestell online und lass deine Produkte versandkostenfrei in 1–3 Tagen in die Filiale liefern. Sind sie dort vorrätig, kannst du sie in nur 1–2 Stunden abholen.
+            - link "Mehr zu Click & Collect" [ref=e963] [cursor=pointer]:
+              - /url: /de/c/douglas-services/click-collect/2601
+          - generic [ref=e964]:
+            - link "beauty-services-2026-service-modul-beauty-service-1027.jpg" [ref=e965] [cursor=pointer]:
+              - /url: /de/c/douglas-store-services/18
+              - img "beauty-services-2026-service-modul-beauty-service-1027.jpg" [ref=e967]
+            - heading "BEAUTY-SERVICES" [level=3] [ref=e969]
+            - paragraph [ref=e970]: Freu dich auf professionelle Beauty-Services in unseren Stores! Einfach Filiale in deiner Nähe finden, Service auswählen und direkt online deinen Termin buchen.
+            - link "Beauty-Services entdecken" [ref=e971] [cursor=pointer]:
+              - /url: /de/c/douglas-store-services/18
+      - generic [ref=e976]:
+        - heading "Entdecke Douglas Clips" [level=3] [ref=e977]
+        - link "Alle anzeigen" [ref=e978] [cursor=pointer]:
+          - /url: /de/videos/hub?type=CLIP
+      - generic [ref=e1004]:
+        - heading "Unsere Empfehlungen für Dich" [level=2] [ref=e1009]
+        - tabpanel "Jetzt entdecken" [ref=e1012]:
+          - generic [ref=e1014]:
+            - generic:
+              - link "Überspringen":
+                - /url: /de
+            - generic [ref=e1015]:
+              - generic [ref=e1017]:
+                - generic [ref=e1021]:
+                  - link "Armani Emporio Armani Stronger With You Powerfully Eau de Parfum Empfohlener Verkaufspreis 89,00 € Aktuell 71,20 € 50 Milliliter Preis 1.424,00 € pro 1 Liter" [ref=e1023] [cursor=pointer]:
+                    - /url: /de/p/5011994014
+                    - img "Eau de Parfum für Männlich Emporio Armani Stronger With You Powerfully 50 ml":
+                      - generic:
+                        - generic:
+                          - alert
+                      - generic: Eau de Parfum für Männlich Emporio Armani Stronger With You Powerfully 50 ml
+                    - generic [ref=e1025]:
+                      - generic [ref=e1026]:
+                        - generic [ref=e1027]: Armani
+                        - generic [ref=e1028]:
+                          - generic [ref=e1029]: Emporio Armani
+                          - generic [ref=e1030]: Stronger With You Powerfully
+                          - generic [ref=e1031]: Eau de Parfum
+                      - generic [ref=e1032]:
+                        - generic [ref=e1035]:
+                          - generic [ref=e1036]:
+                            - generic [ref=e1037]: UVP
+                            - generic [ref=e1038]: 89,00 €
+                          - generic [ref=e1040]: 71,20 €
+                        - generic "50 Milliliter Preis 1.424,00 € pro 1 Liter" [ref=e1044]: 50 ml (1.424,00 € / 1 l)
+                  - button "Zur Wunschliste hinzufügen" [ref=e1046] [cursor=pointer]:
+                    - img [ref=e1047]
+                - generic [ref=e1053]:
+                  - link "Ariana Grande R.E.M. Cherry Eclipse Eau de Parfum Empfohlener Verkaufspreis 48,00 € Aktuell 38,40 € 30 Milliliter Preis 1.280,00 € pro 1 Liter" [ref=e1055] [cursor=pointer]:
+                    - /url: /de/p/5011789003
+                    - img "Eau de Parfum für Weiblich Ariana Grande R.E.M. Cherry Eclipse 30 ml":
+                      - generic:
+                        - generic:
+                          - alert
+                      - generic: Eau de Parfum für Weiblich Ariana Grande R.E.M. Cherry Eclipse 30 ml
+                    - generic [ref=e1057]:
+                      - generic [ref=e1058]:
+                        - generic [ref=e1059]: Ariana Grande
+                        - generic [ref=e1060]:
+                          - generic [ref=e1061]: R.E.M.
+                          - generic [ref=e1062]: Cherry Eclipse
+                          - generic [ref=e1063]: Eau de Parfum
+                      - generic [ref=e1064]:
+                        - generic [ref=e1067]:
+                          - generic [ref=e1068]:
+                            - generic [ref=e1069]: UVP
+                            - generic [ref=e1070]: 48,00 €
+                          - generic [ref=e1072]: 38,40 €
+                        - generic "30 Milliliter Preis 1.280,00 € pro 1 Liter" [ref=e1076]: 30 ml (1.280,00 € / 1 l)
+                  - button "Zur Wunschliste hinzufügen" [ref=e1078] [cursor=pointer]:
+                    - img [ref=e1079]
+                - generic [ref=e1085]:
+                  - link "Dr. Susanne von Schmiedeberg Youth Booster A.G.E.-Reverse Double Serum Feuchtigkeitsserum Empfohlener Verkaufspreis 97,00 € Aktuell 77,60 € 50 Milliliter Preis 1.552,00 € pro 1 Liter" [ref=e1087] [cursor=pointer]:
+                    - /url: /de/p/5010395043
+                    - img "Feuchtigkeitsserum für Unisex Dr. Susanne von Schmiedeberg Youth Booster A.G.E.-Reverse Double Serum 50 ml":
+                      - generic:
+                        - generic:
+                          - alert
+                      - generic: Feuchtigkeitsserum für Unisex Dr. Susanne von Schmiedeberg Youth Booster A.G.E.-Reverse Double Serum 50 ml
+                    - generic [ref=e1089]:
+                      - generic [ref=e1090]:
+                        - generic [ref=e1091]: Dr. Susanne von Schmiedeberg
+                        - generic [ref=e1092]:
+                          - generic [ref=e1093]: Youth Booster
+                          - generic [ref=e1094]: A.G.E.-Reverse Double Serum
+                          - generic [ref=e1095]: Feuchtigkeitsserum
+                      - generic [ref=e1096]:
+                        - generic [ref=e1099]:
+                          - generic [ref=e1100]:
+                            - generic [ref=e1101]: UVP
+                            - generic [ref=e1102]: 97,00 €
+                          - generic [ref=e1104]: 77,60 €
+                        - generic "50 Milliliter Preis 1.552,00 € pro 1 Liter" [ref=e1108]: 50 ml (1.552,00 € / 1 l)
+                  - button "Zur Wunschliste hinzufügen" [ref=e1110] [cursor=pointer]:
+                    - img [ref=e1111]
+                - generic [ref=e1117]:
+                  - link "Dr. Susanne von Schmiedeberg Youth Booster A.G.E.-REVERSE Gesichtscreme Empfohlener Verkaufspreis 115,00 € Aktuell 89,99 € 50 Milliliter Preis 1.799,80 € pro 1 Liter" [ref=e1119] [cursor=pointer]:
+                    - /url: /de/p/5011085005
+                    - img "Gesichtscreme für Unisex Dr. Susanne von Schmiedeberg Youth Booster A.G.E.-REVERSE 50 ml":
+                      - generic:
+                        - generic:
+                          - alert
+                      - generic: Gesichtscreme für Unisex Dr. Susanne von Schmiedeberg Youth Booster A.G.E.-REVERSE 50 ml
+                    - generic [ref=e1121]:
+                      - generic [ref=e1122]:
+                        - generic [ref=e1123]: Dr. Susanne von Schmiedeberg
+                        - generic [ref=e1124]:
+                          - generic [ref=e1125]: Youth Booster
+                          - generic [ref=e1126]: A.G.E.-REVERSE
+                          - generic [ref=e1127]: Gesichtscreme
+                      - generic [ref=e1128]:
+                        - generic [ref=e1131]:
+                          - generic [ref=e1132]:
+                            - generic [ref=e1133]: UVP
+                            - generic [ref=e1134]: 115,00 €
+                          - generic [ref=e1136]: 89,99 €
+                        - generic "50 Milliliter Preis 1.799,80 € pro 1 Liter" [ref=e1140]: 50 ml (1.799,80 € / 1 l)
+                  - button "Zur Wunschliste hinzufügen" [ref=e1142] [cursor=pointer]:
+                    - img [ref=e1143]
+                - generic [ref=e1149]:
+                  - link "Dolce&Gabbana Devotion My Devotion Intense Eau de Parfum Empfohlener Verkaufspreis 176,00 € Aktuell 140,80 € 100 Milliliter Preis 1.408,00 € pro 1 Liter" [ref=e1151] [cursor=pointer]:
+                    - /url: /de/p/5011868085?variant=1234058
+                    - img "Eau de Parfum für Weiblich Dolce&Gabbana Devotion My Devotion Intense 100 ml":
+                      - generic:
+                        - generic:
+                          - alert
+                      - generic: Eau de Parfum für Weiblich Dolce&Gabbana Devotion My Devotion Intense 100 ml
+                    - generic [ref=e1153]:
+                      - generic [ref=e1154]:
+                        - generic [ref=e1155]: Dolce&Gabbana
+                        - generic [ref=e1156]:
+                          - generic [ref=e1157]: Devotion
+                          - generic [ref=e1158]: My Devotion Intense
+                          - generic [ref=e1159]: Eau de Parfum
+                      - generic [ref=e1160]:
+                        - generic [ref=e1163]:
+                          - generic [ref=e1164]:
+                            - generic [ref=e1165]: UVP
+                            - generic [ref=e1166]: 176,00 €
+                          - generic [ref=e1168]: 140,80 €
+                        - generic "100 Milliliter Preis 1.408,00 € pro 1 Liter" [ref=e1172]: 100 ml (1.408,00 € / 1 l)
+                  - button "Zur Wunschliste hinzufügen" [ref=e1174] [cursor=pointer]:
+                    - img [ref=e1175]
+                - generic [ref=e1181]:
+                  - link "one.two.free! Glazing Milk Gesichtswasser Aktuell 15,19 € 80 Milliliter Preis 189,88 € pro 1 Liter" [ref=e1183] [cursor=pointer]:
+                    - /url: /de/p/5011996055
+                    - img "Gesichtswasser für Unisex one.two.free! Glazing Milk 80 ml":
+                      - generic:
+                        - generic:
+                          - alert
+                      - generic: Gesichtswasser für Unisex one.two.free! Glazing Milk 80 ml
+                    - generic [ref=e1185]:
+                      - generic [ref=e1186]:
+                        - generic [ref=e1187]: one.two.free!
+                        - generic [ref=e1188]:
+                          - generic [ref=e1189]: Glazing Milk
+                          - generic [ref=e1190]: Gesichtswasser
+                      - generic [ref=e1191]:
+                        - generic [ref=e1195]: 15,19 €
+                        - generic "80 Milliliter Preis 189,88 € pro 1 Liter" [ref=e1199]: 80 ml (189,88 € / 1 l)
+                  - button "Zur Wunschliste hinzufügen" [ref=e1201] [cursor=pointer]:
+                    - img [ref=e1202]
+              - button [disabled]:
+                - img
+              - button [ref=e1208] [cursor=pointer]:
+                - img [ref=e1209]
+      - generic [ref=e1214]:
+        - heading "HIGHLIGHTS UNSERER MARKEN" [level=3] [ref=e1216]
+        - generic [ref=e1217]:
+          - generic:
+            - link "Überspringen":
+              - /url: /de
+          - generic [ref=e1220]:
+            - generic [ref=e1224]:
+              - link "Entdecken Sie Nest New York Santa Barbara Strawberry Body Mist mit nährendem Baobab-Öl, 125 ml, für einen erfrischenden Duft." [ref=e1226] [cursor=pointer]:
+                - /url: /de/p/5011899036
+                - generic [ref=e1227]:
+                  - alert [ref=e1229]
+                  - img "Entdecken Sie Nest New York Santa Barbara Strawberry Body Mist mit nährendem Baobab-Öl, 125 ml, für einen erfrischenden Duft." [ref=e1231]
+              - generic [ref=e1232]:
+                - link [ref=e1233] [cursor=pointer]:
+                  - /url: /de/b/nest-new-york/b9400
+                  - generic:
+                    - generic:
+                      - alert
+                - link "Luxuriöse Duftwelten Entdecke die sinnlichen Eaux de Parfum, Parfumöle, Körpersprays und Raumdüfte." [ref=e1235] [cursor=pointer]:
+                  - /url: /de/p/5011899036
+                  - heading "Luxuriöse Duftwelten" [level=2] [ref=e1236]
+                  - paragraph [ref=e1237]: Entdecke die sinnlichen Eaux de Parfum, Parfumöle, Körpersprays und Raumdüfte.
+            - generic [ref=e1241]:
+              - link "Nahaufnahme einer Morphe-Palette mit sechs Farbtönen in Rosa-, Gold- und Brauntönen, ergänzt durch loses, schimmerndes Puder in ähnlichen Farbtönen." [ref=e1243] [cursor=pointer]:
+                - /url: /de/b/morphe/b6333
+                - generic [ref=e1244]:
+                  - alert [ref=e1246]
+                  - img "Nahaufnahme einer Morphe-Palette mit sechs Farbtönen in Rosa-, Gold- und Brauntönen, ergänzt durch loses, schimmerndes Puder in ähnlichen Farbtönen." [ref=e1248]
+              - generic [ref=e1249]:
+                - link [ref=e1250] [cursor=pointer]:
+                  - /url: /de/b/morphe/b6333
+                  - generic:
+                    - generic:
+                      - alert
+                - link "Born to Blend Wecke den Make-up-Artist in dir und kreiere einzigartige Looks!" [ref=e1252] [cursor=pointer]:
+                  - /url: /de/b/morphe/b6333
+                  - heading "Born to Blend" [level=2] [ref=e1253]
+                  - paragraph [ref=e1254]: Wecke den Make-up-Artist in dir und kreiere einzigartige Looks!
+            - generic [ref=e1258]:
+              - link "Nahaufnahme eines Tiegel Biotherm Aquasource Vitamin Glow Gel mit silbernem Deckel und orangefarbenem Gel." [ref=e1260] [cursor=pointer]:
+                - /url: /de/b/biotherm/b0053
+                - generic [ref=e1261]:
+                  - alert [ref=e1263]
+                  - img "Nahaufnahme eines Tiegel Biotherm Aquasource Vitamin Glow Gel mit silbernem Deckel und orangefarbenem Gel." [ref=e1265]
+              - generic [ref=e1266]:
+                - link [ref=e1267] [cursor=pointer]:
+                  - /url: /de/b/biotherm/b0053
+                  - generic:
+                    - generic:
+                      - alert
+                - link "Dein Geschenk Ein Aquasource+ Vitamin Glow Gel (15 ml) von Biotherm gratis zu deiner Biotherm- oder Biotherm-Homme-Bestellung ab 49 €" [ref=e1269] [cursor=pointer]:
+                  - /url: /de/b/biotherm/b0053
+                  - heading "Dein Geschenk" [level=2] [ref=e1270]
+                  - paragraph [ref=e1271]: Ein Aquasource+ Vitamin Glow Gel (15 ml) von Biotherm gratis zu deiner Biotherm- oder Biotherm-Homme-Bestellung ab 49 €
+                - button "Klicke hier für mehr Informationen" [ref=e1273] [cursor=pointer]:
+                  - img [ref=e1274]
+      - generic [ref=e1284]:
+        - generic [ref=e1286]:
+          - link [ref=e1287] [cursor=pointer]:
+            - /url: /de/b/dr-susanne-von-schmiedeberg/b5659
+          - generic [ref=e1288]:
+            - heading "Hochwirksame Anti-Aging-Pflege" [level=2] [ref=e1290]
+            - link "Jetzt entdecken" [ref=e1291] [cursor=pointer]:
+              - /url: /de/b/dr-susanne-von-schmiedeberg/youth-booster/b565905
+        - generic [ref=e1293]:
+          - link "DACH_DR-SVS_Rabattaktion_Reco-1200x1500.jpg" [ref=e1295] [cursor=pointer]:
+            - /url: /de/b/dr-susanne-von-schmiedeberg/youth-booster/b565905
+            - generic [ref=e1296]:
+              - alert [ref=e1298]
+              - img "DACH_DR-SVS_Rabattaktion_Reco-1200x1500.jpg" [ref=e1300]
+          - tabpanel "Jetzt entdecken!" [ref=e1301]:
+            - generic [ref=e1303]:
+              - generic:
+                - link "Überspringen":
+                  - /url: /de
+              - generic [ref=e1306]:
+                - generic [ref=e1310]:
+                  - link "Dr. Susanne von Schmiedeberg Youth Booster A.G.E.-Reverse Double Serum Feuchtigkeitsserum Empfohlener Verkaufspreis 97,00 € Aktuell 77,60 € 50 Milliliter Preis 1.552,00 € pro 1 Liter" [ref=e1312] [cursor=pointer]:
+                    - /url: /de/p/5010395043
+                    - img "Feuchtigkeitsserum für Unisex Dr. Susanne von Schmiedeberg Youth Booster A.G.E.-Reverse Double Serum 50 ml":
+                      - generic:
+                        - generic:
+                          - alert
+                      - generic: Feuchtigkeitsserum für Unisex Dr. Susanne von Schmiedeberg Youth Booster A.G.E.-Reverse Double Serum 50 ml
+                    - generic [ref=e1314]:
+                      - generic [ref=e1315]:
+                        - generic [ref=e1316]: Dr. Susanne von Schmiedeberg
+                        - generic [ref=e1317]:
+                          - generic [ref=e1318]: Youth Booster
+                          - generic [ref=e1319]: A.G.E.-Reverse Double Serum
+                          - generic [ref=e1320]: Feuchtigkeitsserum
+                      - generic [ref=e1321]:
+                        - generic [ref=e1324]:
+                          - generic [ref=e1325]:
+                            - generic [ref=e1326]: UVP
+                            - generic [ref=e1327]: 97,00 €
+                          - generic [ref=e1329]: 77,60 €
+                        - generic "50 Milliliter Preis 1.552,00 € pro 1 Liter" [ref=e1333]: 50 ml (1.552,00 € / 1 l)
+                  - button "Zur Wunschliste hinzufügen" [ref=e1335] [cursor=pointer]:
+                    - img [ref=e1336]
+                - generic [ref=e1342]:
+                  - link "Dr. Susanne von Schmiedeberg Youth Booster A.G.E.-REVERSE Gesichtscreme Empfohlener Verkaufspreis 115,00 € Aktuell 89,99 € 50 Milliliter Preis 1.799,80 € pro 1 Liter" [ref=e1344] [cursor=pointer]:
+                    - /url: /de/p/5011085005
+                    - img "Gesichtscreme für Unisex Dr. Susanne von Schmiedeberg Youth Booster A.G.E.-REVERSE 50 ml":
+                      - generic:
+                        - generic:
+                          - alert
+                      - generic: Gesichtscreme für Unisex Dr. Susanne von Schmiedeberg Youth Booster A.G.E.-REVERSE 50 ml
+                    - generic [ref=e1346]:
+                      - generic [ref=e1347]:
+                        - generic [ref=e1348]: Dr. Susanne von Schmiedeberg
+                        - generic [ref=e1349]:
+                          - generic [ref=e1350]: Youth Booster
+                          - generic [ref=e1351]: A.G.E.-REVERSE
+                          - generic [ref=e1352]: Gesichtscreme
+                      - generic [ref=e1353]:
+                        - generic [ref=e1356]:
+                          - generic [ref=e1357]:
+                            - generic [ref=e1358]: UVP
+                            - generic [ref=e1359]: 115,00 €
+                          - generic [ref=e1361]: 89,99 €
+                        - generic "50 Milliliter Preis 1.799,80 € pro 1 Liter" [ref=e1365]: 50 ml (1.799,80 € / 1 l)
+                  - button "Zur Wunschliste hinzufügen" [ref=e1367] [cursor=pointer]:
+                    - img [ref=e1368]
+      - generic [ref=e1377]:
+        - heading "HIGHLIGHTS UNSERER MARKEN" [level=3] [ref=e1379]
+        - generic [ref=e1380]:
+          - generic:
+            - link "Überspringen":
+              - /url: /de
+          - generic [ref=e1383]:
+            - generic [ref=e1387]:
+              - link "Entdecken Sie One.Two.Free! Glazing Milk in einer hellrosa Flasche, die mit der Aufschrift „Reis macht dich weich! Angereichert mit feuchtigkeitsspendender Formel für strahlende Haut." [ref=e1389] [cursor=pointer]:
+                - /url: /de/p/5011996055
+                - generic [ref=e1390]:
+                  - alert [ref=e1392]
+                  - img "Entdecken Sie One.Two.Free! Glazing Milk in einer hellrosa Flasche, die mit der Aufschrift „Reis macht dich weich! Angereichert mit feuchtigkeitsspendender Formel für strahlende Haut." [ref=e1394]
+              - generic [ref=e1395]:
+                - link [ref=e1396] [cursor=pointer]:
+                  - /url: /de/b/onetwofree/b6210
+                  - generic:
+                    - generic:
+                      - alert
+                - link "Glazing Milk Der milchige, barrierestärkende Toner beruhigt die Haut und spendet extraviel Feuchtigkeit – glazed skin incoming!" [ref=e1398] [cursor=pointer]:
+                  - /url: /de/p/5011996055
+                  - heading "Glazing Milk" [level=2] [ref=e1399]
+                  - paragraph [ref=e1400]: Der milchige, barrierestärkende Toner beruhigt die Haut und spendet extraviel Feuchtigkeit – glazed skin incoming!
+            - generic [ref=e1404]:
+              - link "Eine blonde Frau mit roten Lippen hält eine hellblaue Douglas-Geschenktüte über ihren Kopf und zwinkert." [ref=e1406] [cursor=pointer]:
+                - /url: /de/gwpoffer
+                - generic [ref=e1407]:
+                  - alert [ref=e1409]
+                  - img "Eine blonde Frau mit roten Lippen hält eine hellblaue Douglas-Geschenktüte über ihren Kopf und zwinkert." [ref=e1411]
+              - link "Unsere Geschenke für dich Sicher dir Produkt-Minis und andere Highlights von angesagten Brands gratis zu deiner Bestellung!" [ref=e1413] [cursor=pointer]:
+                - /url: /de/gwpoffer
+                - heading "Unsere Geschenke für dich" [level=2] [ref=e1414]
+                - paragraph [ref=e1415]: Sicher dir Produkt-Minis und andere Highlights von angesagten Brands gratis zu deiner Bestellung!
+            - generic [ref=e1419]:
+              - 'link "Entdecken Sie die ANNAYAKE ULTRATIME-Kollektion: Perfect Biotic Pflege, restrukturierendes Serum, Anti-Falten Creme und Augenpflege in eleganten roten Verpackungen." [ref=e1421] [cursor=pointer]':
+                - /url: /de/b/annayake/ultratime/b053086
+                - generic [ref=e1422]:
+                  - alert [ref=e1424]
+                  - 'img "Entdecken Sie die ANNAYAKE ULTRATIME-Kollektion: Perfect Biotic Pflege, restrukturierendes Serum, Anti-Falten Creme und Augenpflege in eleganten roten Verpackungen." [ref=e1426]'
+              - generic [ref=e1427]:
+                - link [ref=e1428] [cursor=pointer]:
+                  - /url: /de/b/annayake/b0530
+                  - generic:
+                    - generic:
+                      - alert
+                - link "Anti-Aging-Formeln für schöne Haut Die Seren, Cremes und Augenpflege der Linie Ultratime verwöhnen reife Haut und mindern Zeichen der Hautalterung." [ref=e1430] [cursor=pointer]:
+                  - /url: /de/b/annayake/ultratime/b053086
+                  - heading "Anti-Aging-Formeln für schöne Haut" [level=2] [ref=e1431]
+                  - paragraph [ref=e1432]: Die Seren, Cremes und Augenpflege der Linie Ultratime verwöhnen reife Haut und mindern Zeichen der Hautalterung.
+      - generic [ref=e1439] [cursor=pointer]:
+        - link "Nahaufnahme einer Frau mit blonden, gewellten Haaren, blauen Augen und einem natürlichen Make-up, die ihre Hand an ihr Gesicht hält, vor einem schwarzen Hintergrund." [ref=e1440]:
+          - /url: /de/account/beauty-profile
+          - generic [ref=e1441]:
+            - alert [ref=e1443]
+            - img "Nahaufnahme einer Frau mit blonden, gewellten Haaren, blauen Augen und einem natürlichen Make-up, die ihre Hand an ihr Gesicht hält, vor einem schwarzen Hintergrund." [ref=e1445]
+        - generic [ref=e1448]:
+          - heading "Beauty-Profil mit Hautanalyse-Tool" [level=2] [ref=e1450]
+          - paragraph [ref=e1451]: Beantworte Fragen über deine Haut und deine Pflegevorlieben und bekomme noch bessere Empfehlungen.
+          - link "Hautanalyse" [ref=e1453]:
+            - /url: /de/account/beauty-profile
+      - generic [ref=e1457]:
+        - generic [ref=e1458]:
+          - heading "Douglas Onlineshop – dein Ort für Parfums, Premium Beauty & die neuesten Trends" [level=1] [ref=e1459]
+          - paragraph [ref=e1460]:
+            - text: Du suchst einen neuen Signature Duft, möchtest deinen Lieblings-Lippie nachkaufen oder dich einfach inspirieren lassen? Im Douglas Onlineshop zeigen wir dir die neuesten Brands, Trendprodukte und die angesagtesten Looks unserer
+            - link "Douglas Creators" [ref=e1461] [cursor=pointer]:
+              - /url: /de/cp/videos/video-overview
+            - text: als Short Clips oder im Livestream.
+            - strong [ref=e1462]
+          - heading "Parfümerie Douglas – Make Life More Beautiful" [level=2] [ref=e1463]
+          - paragraph [ref=e1464]:
+            - text: Bereits
+            - strong [ref=e1465]: "1910"
+            - text: "erkannten die Schwestern Maria und Anna Carstens, was aus heutiger Sicht selbstverständlich ist: Kosmetika machen das Leben einfach schöner. Der kleine"
+            - link "Luxus" [ref=e1466] [cursor=pointer]:
+              - /url: /de/c/luxuswelt/29
+            - text: eines neuen
+            - link "Lippenstifts" [ref=e1467] [cursor=pointer]:
+              - /url: /de/c/make-up/lippen/lippenstifte/030201
+            - text: ", das langersehnte High-end-"
+            - link "Parfum" [ref=e1468] [cursor=pointer]:
+              - /url: /de/c/parfum/01
+            - text: oder die perfekte
+            - link "Skincare" [ref=e1469] [cursor=pointer]:
+              - /url: /de/c/gesicht/gesichtspflege/1205
+            - text: "-Routine bereichern unseren Alltag und sorgen für Glow-up-Momente. Maria und Anna Carstens eröffneten die"
+            - strong [ref=e1470]: erste Douglas Parfümerie
+            - text: in Hamburg, entstanden aus „J.S. Douglas & Söhne“, einem Ladengeschäft für Seife. Später folgen weitere Filialen und das Geschäft mit den Düften wird untrennbar mit dem Namen „Douglas“ verknüpft. Was als stationäres Geschäft begann, ist heute mit den Douglas Onlineshops zu einer Marke geworden, die dir auch online
+            - strong [ref=e1471]: die neuesten Düfte, Make-up Highlights und Skincare Heros
+            - text: "präsentiert. Folgende Services rund um deinen Einkauf sehen wir außerdem als Selbstverständlichkeit:"
+          - list [ref=e1472]:
+            - listitem [ref=e1473]: schnelle Lieferung in eine Filiale oder nach Hause (DHL oder Hermes)
+            - listitem [ref=e1474]: Online-Geschenkgutscheine zum Einlösen vor Ort, in der App oder im Onlineshop
+            - listitem [ref=e1475]: 2 Gratis-Proben zu jeder Bestellung ab 10 Euro (Die Bestellung darf nicht allein aus Adventskalendern und/oder Produkten mit der Kennzeichnung „Douglas Partner“ bestehen.)
+          - paragraph [ref=e1476]: "Zum Schutz der Umwelt müssen Proben aktiv im Warenkorb ausgewählt werden:"
+          - list [ref=e1477]:
+            - listitem [ref=e1478]: füge deine gewünschten Produkte dem Warenkorb hinzu
+            - listitem [ref=e1479]: im Warenkorb auf “Wähle bis zu 2 Gratis-Proben” klicken
+            - listitem [ref=e1480]: Proben auswählen, im Overlay unten “Auswahl hinzufügen” anklicken
+          - heading "Douglas online – Finde deine Beauty Must-haves, Services & Inspiration" [level=2] [ref=e1481]
+          - paragraph [ref=e1482]:
+            - text: Wir sind deine Expert*innen bei Parfum,
+            - link "Make-up" [ref=e1483] [cursor=pointer]:
+              - /url: /de/c/make-up/03
+            - text: ", Hautpflege & Co.! Außerdem findest du in unseren saisonalen Welten vom"
+            - link "Valentinstag" [ref=e1484] [cursor=pointer]:
+              - /url: /de/c/valentinstag-geschenke/65
+            - text: über
+            - link "Sommer" [ref=e1485] [cursor=pointer]:
+              - /url: /de/c/sommer/86
+            - text: bis
+            - link "Weihnachten" [ref=e1486] [cursor=pointer]:
+              - /url: /de/c/weihnachtswelt/24
+            - text: alles, was zum Flair der aufregendsten Zeiten im Jahr passt. Mit
+            - strong [ref=e1487]: Premium Brands
+            - text: wie
+            - strong [ref=e1488]: Yves Saint Laurent, Chanel, Charlotte Tilbury oder Rituals
+            - text: gönnst du dir selbst einen Hauch Glamour oder verschenkst einen Wow-Moment.
+          - paragraph [ref=e1489]:
+            - text: Bei Douglas erwartet dich ein großes Sortiment an Brands und Produkten, sowie viel Know-how dazu, wie du sie am wirkungsvollsten einsetzt. In unserem
+            - link "Kosmetik Hub" [ref=e1490] [cursor=pointer]:
+              - /url: /de/c/kosmetik/99
+            - text: stellen und beantworten wir Fragen wie
+            - link "„Welcher Lippenstift passt zu mir?“" [ref=e1491] [cursor=pointer]:
+              - /url: /de/c/make-up/make-up-tipps/welcher-lippenstift-passt-zu-mir/99200202
+            - text: oder
+            - link "„Welcher Farbtyp bin ich?“" [ref=e1492] [cursor=pointer]:
+              - /url: /de/c/make-up/make-up-tipps/welcher-farbtyp-bin-ich/99200201
+            - text: ", die Beauty-Interessierte besonders beschäftigen. Dabei bewegen wir uns im Make-up-Wissen von"
+            - link "„Schminken für Änfänger*innen“" [ref=e1493] [cursor=pointer]:
+              - /url: /de/c/make-up/schminken-fuer-anfaenger/992001
+            - text: bis hin zu Trendlooks. In unserem
+            - link "Skincare Guide" [ref=e1494] [cursor=pointer]:
+              - /url: /de/c/hautpflege/9919
+            - text: "schauen wir bei Inhaltsstoffen und Routinen ganz genau hin: Was steckt eigentlich hinter"
+            - link "Retinol" [ref=e1495] [cursor=pointer]:
+              - /url: /de/c/hautpflege/pflegende-inhaltsstoffe/retinol/99190403
+            - text: "? Und wie ging das mit dem"
+            - link "Skin Cycling" [ref=e1496] [cursor=pointer]:
+              - /url: /de/c/hautpflege/hautpflege-themen-trends/skin-cycling/99190817
+            - text: nochmal? Dich erwarten kuratierte Beiträge mit wertvollen Tipps und Ideen.
+          - paragraph [ref=e1497]:
+            - text: Bei uns verschmelzen die Einkaufserlebnisse im Store und online perfekt miteinander. Hier einige unserer
+            - strong [ref=e1498]: Services und Vorteile
+            - text: ", auf die du dich als Douglas Kund*in freuen kannst:"
+          - list [ref=e1499]:
+            - listitem [ref=e1500]:
+              - link "Douglas Card & Beauty Points" [ref=e1501] [cursor=pointer]:
+                - /url: /de/cp/dbc/dbc
+              - text: ": Mit der Douglas Beauty Card kannst du sowohl beim Onlineshopping als auch beim Einkaufen im Store wertvolle Beauty Points sammeln, bei deinem nächsten Einkauf einlösen und Direktrabatte erhalten."
+            - listitem [ref=e1502]:
+              - link "Douglas App" [ref=e1503] [cursor=pointer]:
+                - /url: /de/c/douglas-services/app/2605
+              - text: ": Liken, Merken, in den Warenkorb legen – die Douglas App bietet dir viele Möglichkeiten, ganz unkompliziert und auf dich abgestimmt einzukaufen. Beratungs-Tools wie unser Parfumfinder helfen dir, den passenden Duft zu finden. Auch deine Digitale Beauty Card hast du in der Douglas App immer dabei und kannst den Code bequem an der Kasse vorzeigen."
+            - listitem [ref=e1504]:
+              - link "Click & Collect" [ref=e1505] [cursor=pointer]:
+                - /url: /de/c/douglas-services/click-collect/2601
+              - text: ": Wähle deine neuen Favoriten bequem online aus und hole dein Paket in 1-3 Werktagen kostenlos in deiner Wunschfiliale ab. So sparst du dir die Versandkosten und kannst dein Päckchen ganz einfach beim Bummeln in der Stadt einsammeln. Zahlen kannst du entweder direkt online beim Bestellen oder vor Ort in der Filiale."
+            - listitem [ref=e1506]:
+              - link "Store Services" [ref=e1507] [cursor=pointer]:
+                - /url: /de/c/douglas-store-services/18
+              - text: ": Egal ob Abiball, ein wichtiger Geburtstag oder eine Hochzeitseinladung – we got you! Denn mit unseren In-Store Schminkservices für"
+              - link "Tages" [ref=e1508] [cursor=pointer]:
+                - /url: /de/c/douglas-store-services/make-up-services/tages-make-up-im-store/180101
+              - text: "- und"
+              - link "Abend-Make-up" [ref=e1509] [cursor=pointer]:
+                - /url: /de/c/douglas-store-services/make-up-services/abend-make-up-im-store/180102
+              - text: schminken dir unsere Beauty Expert*innen auf dich abgestimmte Looks für große Augenblicke. Unsere
+              - link "kostenlosen Rituale" [ref=e1510] [cursor=pointer]:
+                - /url: /de/c/douglas-store-services/kostenlose-rituale-im-store/1802
+              - text: im Store begeistern außerdem mit einem Make-up-Refresh oder einer individuellen Hautanalyse.
+          - paragraph [ref=e1511]:
+            - text: Du hast weitere Fragen zu unseren Kosmetik-Produkten? Gerne beraten wir dich an unserer
+            - link "Kundenhotline" [ref=e1512] [cursor=pointer]:
+              - /url: /de/cp/helpcontact/help-contact
+            - text: . Wenn du zukünftig keine Beauty-News mehr verpassen möchtest, dann melde dich zu unserem kostenlosen
+            - link "Newsletter" [ref=e1513] [cursor=pointer]:
+              - /url: /de/cp/newslettersubscribe/newsletter-subscribe
+            - text: an.
+          - paragraph [ref=e1514]:
+            - text: Willst du mehr über Douglas als Unternehmen, unsere Werte, Karrierechancen und Co. erfahren, dann schau dich gerne auf unserer
+            - link "Douglas Group" [ref=e1515] [cursor=pointer]:
+              - /url: https://douglas.group/de/
+            - text: Website um.
+          - heading "Douglas International:" [level=3] [ref=e1516]
+          - paragraph [ref=e1517]: "Heute sind wir mit Douglas europaweit mit rund 1.850 Stores und online in mehr als 19 Ländern vertreten:"
+          - paragraph [ref=e1518]:
+            - link "Douglas Deutschland" [ref=e1519] [cursor=pointer]:
+              - /url: https://www.douglas.de/
+            - text: "|"
+            - link "Douglas Bulgarien" [ref=e1520] [cursor=pointer]:
+              - /url: https://douglas.bg/
+            - text: "|"
+            - link "Douglas Italien" [ref=e1521] [cursor=pointer]:
+              - /url: https://www.douglas.it/
+            - text: "|"
+            - link "Douglas Kroatien" [ref=e1522] [cursor=pointer]:
+              - /url: https://www.douglas.hr/
+            - text: "|"
+            - link "Douglas Lettland" [ref=e1523] [cursor=pointer]:
+              - /url: https://www.douglas.lv/
+            - text: "|"
+            - link "Douglas Litauen" [ref=e1524] [cursor=pointer]:
+              - /url: https://www.douglas.lt/
+            - text: "|"
+            - link "Douglas Niederlande" [ref=e1525] [cursor=pointer]:
+              - /url: https://www.douglas.nl/
+            - text: "|"
+            - link "Douglas Österreich" [ref=e1526] [cursor=pointer]:
+              - /url: https://www.douglas.at/
+            - text: "|"
+            - link "Douglas Polen" [ref=e1527] [cursor=pointer]:
+              - /url: https://www.douglas.pl/
+            - text: "|"
+            - link "Douglas Portugal" [ref=e1528] [cursor=pointer]:
+              - /url: https://www.douglas.pt/
+            - text: "|"
+            - link "Douglas Rumänien" [ref=e1529] [cursor=pointer]:
+              - /url: https://www.douglas.ro/
+            - text: "|"
+            - link "Douglas Schweiz" [ref=e1530] [cursor=pointer]:
+              - /url: https://www.douglas.ch/
+            - text: "|"
+            - link "Douglas Spanien" [ref=e1531] [cursor=pointer]:
+              - /url: https://www.douglas.es/
+            - text: "|"
+            - link "Douglas Tschechien" [ref=e1532] [cursor=pointer]:
+              - /url: https://www.douglas.cz/
+            - text: "|"
+            - link "Douglas Slowakei" [ref=e1533] [cursor=pointer]:
+              - /url: https://www.douglas.sk/
+            - text: "|"
+            - link "Douglas Ungarn" [ref=e1534] [cursor=pointer]:
+              - /url: https://www.douglas.hu/
+            - text: "|"
+            - link "Nocibé" [ref=e1535] [cursor=pointer]:
+              - /url: https://www.nocibe.fr/
+            - text: "|"
+            - link "Douglas Belgien" [ref=e1536] [cursor=pointer]:
+              - /url: https://www.douglas.be/nl
+            - text: "|"
+            - link "Douglas Slowenien" [ref=e1537] [cursor=pointer]:
+              - /url: https://www.douglas.si/
+        - list [ref=e1538]:
+          - listitem
+  - contentinfo [ref=e1539]:
+    - generic [ref=e1542]:
+      - generic [ref=e1547]:
+        - generic [ref=e1548]:
+          - alert [ref=e1550]
+          - img "cq5dam.web.4096.4096.jpeg" [ref=e1552]
+        - generic [ref=e1553]:
+          - heading "Abonnier den Douglas-Newsletter und sicher dir einen 20%-Gutschein¹!" [level=2] [ref=e1554]
+          - paragraph [ref=e1555]: Erfahre ab sofort alles über die neuesten Beauty-Trends und Angebote.
+          - generic [ref=e1557]:
+            - generic [ref=e1559]:
+              - textbox "E-Mail-Adresse" [ref=e1560]
+              - generic: E-Mail-Adresse*
+            - button "Anmelden" [ref=e1561] [cursor=pointer]
+          - alert
+      - generic [ref=e1563]:
+        - generic [ref=e1566]:
+          - generic [ref=e1567]:
+            - generic [ref=e1568]:
+              - img [ref=e1570]
+              - generic [ref=e1572]: Schnelle Lieferung
+              - paragraph [ref=e1573]: 1–3 Werktage Lieferzeit
+            - generic [ref=e1574]:
+              - img [ref=e1576]
+              - generic [ref=e1579]: Versandkostenfrei
+              - paragraph [ref=e1580]: ab 34,95 €
+            - generic [ref=e1581]:
+              - img [ref=e1583]
+              - generic [ref=e1589]: 2 Gratis-Proben nach Wahl
+              - paragraph [ref=e1590]: ab 10 € ¹
+          - generic [ref=e1591]:
+            - superscript [ref=e1592]: ¹
+            - text: Die Bestellung darf nicht allein aus Adventskalendern und Produkten mit der Kennzeichnung „Douglas Partner“ bestehen.
+        - generic [ref=e1593]:
+          - generic [ref=e1595]:
+            - generic [ref=e1596]: Sicher bezahlen
+            - generic [ref=e1597]:
+              - link "Rechnung" [ref=e1598] [cursor=pointer]:
+                - /url: /de/cp/helpv2howtopay/help-how-to-pay
+                - generic [ref=e1599]:
+                  - alert [ref=e1601]
+                  - img "Rechnung" [ref=e1603]
+              - link "Beauty Card Premium" [ref=e1604] [cursor=pointer]:
+                - /url: /de/cp/helpv2whatpaymentmethodsexists/help-what-payment-methods-exists
+                - generic [ref=e1605]:
+                  - alert [ref=e1607]
+                  - img "Beauty Card Premium" [ref=e1609]
+              - link "PayPal" [ref=e1610] [cursor=pointer]:
+                - /url: /de/cp/helpv2whatpaymentmethodsexists/help-what-payment-methods-exists
+                - generic [ref=e1611]:
+                  - alert [ref=e1613]
+                  - img "PayPal" [ref=e1615]
+              - link "Klarna" [ref=e1616] [cursor=pointer]:
+                - /url: /de/cp/helpv2whatpaymentmethodsexists/help-what-payment-methods-exists
+                - generic [ref=e1617]:
+                  - alert [ref=e1619]
+                  - img "Klarna" [ref=e1621]
+              - link "Mastercard" [ref=e1622] [cursor=pointer]:
+                - /url: /de/cp/helpv2whatpaymentmethodsexists/help-what-payment-methods-exists
+                - generic [ref=e1623]:
+                  - alert [ref=e1625]
+                  - img "Mastercard" [ref=e1627]
+              - link "Visa" [ref=e1628] [cursor=pointer]:
+                - /url: /de/cp/helpv2whatpaymentmethodsexists/help-what-payment-methods-exists
+                - generic [ref=e1629]:
+                  - alert [ref=e1631]
+                  - img "Visa" [ref=e1633]
+              - link "Amex" [ref=e1634] [cursor=pointer]:
+                - /url: /de/cp/helpv2whatpaymentmethodsexists/help-what-payment-methods-exists
+                - generic [ref=e1635]:
+                  - alert [ref=e1637]
+                  - img "Amex" [ref=e1639]
+              - link "Diners" [ref=e1640] [cursor=pointer]:
+                - /url: /de/cp/helpv2whatpaymentmethodsexists/help-what-payment-methods-exists
+                - generic [ref=e1641]:
+                  - alert [ref=e1643]
+                  - img "Diners" [ref=e1645]
+              - link "Discover" [ref=e1646] [cursor=pointer]:
+                - /url: /de/cp/helpv2whatpaymentmethodsexists/help-what-payment-methods-exists
+                - generic [ref=e1647]:
+                  - alert [ref=e1649]
+                  - img "Discover" [ref=e1651]
+              - link "ApplePay" [ref=e1652] [cursor=pointer]:
+                - /url: /de/cp/helpv2whatpaymentmethodsexists/help-what-payment-methods-exists
+                - generic [ref=e1653]:
+                  - alert [ref=e1655]
+                  - img "ApplePay" [ref=e1657]
+              - link "Gutscheinkarte" [ref=e1658] [cursor=pointer]:
+                - /url: /de/cp/helpv2howcaniredeemgiftcardsonline/help-how-can-i-redeem-gift-cards-online
+                - generic [ref=e1659]:
+                  - alert [ref=e1661]
+                  - img "Gutscheinkarte" [ref=e1663]
+          - generic [ref=e1665]:
+            - generic [ref=e1666]: Schnell versendet
+            - generic [ref=e1667]:
+              - link "DHL" [ref=e1668] [cursor=pointer]:
+                - /url: /de/cp/helpv2whichdeliveryoptionsarethere/help-which-delivery-options-are-there
+                - generic [ref=e1669]:
+                  - alert [ref=e1671]
+                  - img "DHL" [ref=e1673]
+              - link "DHL Express" [ref=e1674] [cursor=pointer]:
+                - /url: /de/cp/helpv2whichdeliveryoptionsarethere/help-which-delivery-options-are-there
+                - generic [ref=e1675]:
+                  - alert [ref=e1677]
+                  - img "DHL Express" [ref=e1679]
+            - generic [ref=e1680]:
+              - text: Alle Preise inkl. gesetzl. MwSt zzgl.
+              - link "Versandkosten." [ref=e1681] [cursor=pointer]:
+                - /url: /de/cp/helpshipping/help-shipping
+          - generic [ref=e1683]:
+            - generic [ref=e1684]: Ausgezeichnet shoppen
+            - link "EHI" [ref=e1686] [cursor=pointer]:
+              - /url: https://cert.ehi-siegel.de/webshop/douglas_4034083?lang=deu
+              - generic [ref=e1687]:
+                - alert [ref=e1689]
+                - img "EHI" [ref=e1691]
+          - generic [ref=e1692]:
+            - generic [ref=e1695]:
+              - generic [ref=e1696]: Douglas App
+              - generic [ref=e1697]:
+                - link "Google Play Store" [ref=e1698] [cursor=pointer]:
+                  - /url: http://bit.ly/3JYBLQ1
+                  - generic [ref=e1699]:
+                    - alert [ref=e1701]
+                    - img "Google Play Store" [ref=e1703]
+                - link "Apple Store" [ref=e1704] [cursor=pointer]:
+                  - /url: http://app.adjust.io/ozz3ic_m0oq2k?fallback=https%3A%2F%2Fwww.douglas.de%2Fde%2Fcp%2Fdouglas-app%2Fdouglas-app&redirect_macos=https%3A%2F%2Fwww.douglas.de%2Fde%2Fcp%2Fdouglas-app%2Fdouglas-app&campaign=Newsletter&adgroup=Footer&creative=AppleButton
+                  - generic [ref=e1705]:
+                    - alert [ref=e1707]
+                    - img "Apple Store" [ref=e1709]
+            - generic [ref=e1712]:
+              - generic [ref=e1713]: Douglas folgen
+              - generic [ref=e1714]:
+                - link "facebook" [ref=e1715] [cursor=pointer]:
+                  - /url: https://www.facebook.com/DouglasDeutschland
+                  - generic [ref=e1716]:
+                    - alert [ref=e1718]
+                    - img "facebook" [ref=e1720]
+                - link "Instagram" [ref=e1721] [cursor=pointer]:
+                  - /url: http://instagram.com/Douglas_Cosmetics
+                  - generic [ref=e1722]:
+                    - alert [ref=e1724]
+                    - img "Instagram" [ref=e1726]
+                - link "YouTube" [ref=e1727] [cursor=pointer]:
+                  - /url: https://www.youtube.com/user/ParfuemerieDouglas
+                  - generic [ref=e1728]:
+                    - alert [ref=e1730]
+                    - img "YouTube" [ref=e1732]
+                - link "Pinterest" [ref=e1733] [cursor=pointer]:
+                  - /url: https://www.pinterest.de/DouglasCosmetics/
+                  - generic [ref=e1734]:
+                    - alert [ref=e1736]
+                    - img "Pinterest" [ref=e1738]
+                - link "TikTok" [ref=e1739] [cursor=pointer]:
+                  - /url: https://www.tiktok.com/@douglas_cosmetics
+                  - generic [ref=e1740]:
+                    - alert [ref=e1742]
+                    - img "TikTok" [ref=e1744]
+                - link "LinkedIn" [ref=e1745] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/1798701/admin/
+                  - generic [ref=e1746]:
+                    - alert [ref=e1748]
+                    - img "LinkedIn" [ref=e1750]
+                - generic [ref=e1751]:
+                  - alert [ref=e1753]
+                  - img "X" [ref=e1755]
+        - navigation [ref=e1761]:
+          - generic [ref=e1762]:
+            - generic "accordion-cmsitem_01169038" [ref=e1763]:
+              - button "accordion-header-cmsitem_01169038" [ref=e1764] [cursor=pointer]:
+                - img [ref=e1766]
+                - generic "accordion-header-cmsitem_01169038" [ref=e1769]:
+                  - generic [ref=e1772]: Weitere Fragen?
+            - generic "accordion-cmsitem_01169041" [ref=e1773]:
+              - button "accordion-header-cmsitem_01169041" [ref=e1774] [cursor=pointer]:
+                - img [ref=e1776]
+                - generic "accordion-header-cmsitem_01169041" [ref=e1779]:
+                  - generic [ref=e1782]: Weitere Informationen
+            - generic "accordion-cmsitem_01169047" [ref=e1783]:
+              - button "accordion-header-cmsitem_01169047" [ref=e1784] [cursor=pointer]:
+                - img [ref=e1786]
+                - generic "accordion-header-cmsitem_01169047" [ref=e1789]:
+                  - generic [ref=e1792]: Über Douglas
+    - generic [ref=e1797]:
+      - generic [ref=e1798]:
+        - link "Datenschutz" [ref=e1799] [cursor=pointer]:
+          - /url: /cp/helpv2informationdatapolicy/help-dataprotection
+        - link "Impressum" [ref=e1800] [cursor=pointer]:
+          - /url: /cp/helpv2imprint/help-imprint
+        - link "Alternative Streitbeilegung" [ref=e1801] [cursor=pointer]:
+          - /url: /cp/helpalternativedisputeresolution/help-alternative-dispute-resolution
+        - link "AGB & Widerrufsrecht" [ref=e1802] [cursor=pointer]:
+          - /url: /cp/helptermsandconditions/help-terms-and-conditions
+        - link "Datenschutzeinstellungen" [ref=e1803] [cursor=pointer]:
+          - /url: /de
+      - generic [ref=e1805]:
+        - generic [ref=e1806]: © 2026
+        - text: Parfümerie Douglas GmbH & Co. KG.
+    - generic [ref=e1810]:
+      - generic [ref=e1811]:
+        - strong [ref=e1812]: Top-Marken
+        - list [ref=e1813]:
+          - listitem [ref=e1814]:
+            - link "Typebea" [ref=e1815] [cursor=pointer]:
+              - /url: /de/b/typebea/b9187
+          - listitem [ref=e1816]:
+            - link "Milk Makeup" [ref=e1817] [cursor=pointer]:
+              - /url: /de/b/milk-make-up/b3825
+          - listitem [ref=e1818]:
+            - link "ARMAF" [ref=e1819] [cursor=pointer]:
+              - /url: /de/b/armaf/b3888
+          - listitem [ref=e1820]:
+            - link "Transparent Lab" [ref=e1821] [cursor=pointer]:
+              - /url: /de/b/transparent-lab/b6898
+          - listitem [ref=e1822]:
+            - link "Lattafa" [ref=e1823] [cursor=pointer]:
+              - /url: /de/b/lattafa/b8909
+          - listitem [ref=e1824]:
+            - link "SWISS ARABIAN" [ref=e1825] [cursor=pointer]:
+              - /url: /de/b/swiss-arabian/b7002
+          - listitem [ref=e1826]:
+            - link "Huda Beauty" [ref=e1827] [cursor=pointer]:
+              - /url: /de/b/huda-beauty/b2707
+          - listitem [ref=e1828]:
+            - link "Sol de Janeiro" [ref=e1829] [cursor=pointer]:
+              - /url: /de/b/sol-de-janeiro/b5423
+          - listitem [ref=e1830]:
+            - link "IRAYE" [ref=e1831] [cursor=pointer]:
+              - /url: /de/b/iraye/b9434
+          - listitem [ref=e1832]:
+            - link "Sun Matters" [ref=e1833] [cursor=pointer]:
+              - /url: /de/b/sun-matters/b9275
+          - listitem [ref=e1834]:
+            - link "About Face" [ref=e1835] [cursor=pointer]:
+              - /url: /de/b/about-face/b9439
+          - listitem [ref=e1836]:
+            - link "Charlotte Tilbury" [ref=e1837] [cursor=pointer]:
+              - /url: /de/b/charlotte-tilbury/b7867
+          - listitem [ref=e1838]:
+            - link "Rituals" [ref=e1839] [cursor=pointer]:
+              - /url: /de/b/rituals/b1779
+          - listitem [ref=e1840]:
+            - link "Formel Skin" [ref=e1841] [cursor=pointer]:
+              - /url: /de/b/formel-skin/b7491
+          - listitem [ref=e1842]:
+            - link "Rosental Organics" [ref=e1843] [cursor=pointer]:
+              - /url: /de/b/rosental-organics/b5764
+          - listitem [ref=e1844]:
+            - link "Artdeco" [ref=e1845] [cursor=pointer]:
+              - /url: /de/b/artdeco/b0180
+          - listitem [ref=e1846]:
+            - link "Creed" [ref=e1847] [cursor=pointer]:
+              - /url: /de/b/creed/b0192
+          - listitem [ref=e1848]:
+            - link "Dr. Barbara Sturm" [ref=e1849] [cursor=pointer]:
+              - /url: /de/b/dr-barbara-sturm/b5648
+          - listitem [ref=e1850]:
+            - link "Collistar" [ref=e1851] [cursor=pointer]:
+              - /url: /de/b/collistar/b1276
+          - listitem [ref=e1852]:
+            - link "Grown Alchemist" [ref=e1853] [cursor=pointer]:
+              - /url: /de/b/grown-alchemist/b2263
+          - listitem [ref=e1854]:
+            - link "Pat McGrath Labs" [ref=e1855] [cursor=pointer]:
+              - /url: /de/b/pat-mcgrath-labs/b2346
+          - listitem [ref=e1856]:
+            - link "Cloud Nine" [ref=e1857] [cursor=pointer]:
+              - /url: /de/b/cloud-nine/b2301
+          - listitem [ref=e1858]:
+            - link "Londa Professional" [ref=e1859] [cursor=pointer]:
+              - /url: /de/b/londa-professional/ba599
+      - generic [ref=e1860]:
+        - strong [ref=e1861]: Top-Kategorien
+        - list [ref=e1862]:
+          - listitem [ref=e1863]:
+            - link "Damen Parfum Top 10" [ref=e1864] [cursor=pointer]:
+              - /url: /de/c/parfum/bestseller/damenduefte/019901
+          - listitem [ref=e1865]:
+            - link "Parfum Männer Top 10" [ref=e1866] [cursor=pointer]:
+              - /url: /de/c/parfum/bestseller/herrenduefte/019902
+          - listitem [ref=e1867]:
+            - link "Korean Skincare" [ref=e1868] [cursor=pointer]:
+              - /url: /de/c/koreanische-kosmetik/korean-skincare/992901
+          - listitem [ref=e1869]:
+            - link "Koreanische Kosmetik" [ref=e1870] [cursor=pointer]:
+              - /url: /de/c/koreanische-kosmetik/9929
+          - listitem [ref=e1871]:
+            - link "Lip Tint & Lip Stain" [ref=e1872] [cursor=pointer]:
+              - /url: /de/c/make-up/make-up-looks/lip-tint-lip-stain/99200327
+          - listitem [ref=e1873]:
+            - link "Kollagenpulver" [ref=e1874] [cursor=pointer]:
+              - /url: /de/c/hautpflege/koerperpflege-produkte/kollagenpulver/99191101
+          - listitem [ref=e1875]:
+            - link "GHD Glätteisen" [ref=e1876] [cursor=pointer]:
+              - /url: /de/b/ghd/haare/styling-tools/glaetteisen/b1129_140301
+          - listitem [ref=e1877]:
+            - link "Lippenstifte" [ref=e1878] [cursor=pointer]:
+              - /url: /de/c/make-up/lippen/lippenstifte/030201
+          - listitem [ref=e1879]:
+            - link "Foundation" [ref=e1880] [cursor=pointer]:
+              - /url: /de/c/make-up/teint/foundation/030104
+          - listitem [ref=e1881]:
+            - link "Lippenöl" [ref=e1882] [cursor=pointer]:
+              - /url: /de/c/gesicht/lippenpflege/lippenoel/120805
+          - listitem [ref=e1883]:
+            - link "Hyaluronsäure Serum" [ref=e1884] [cursor=pointer]:
+              - /url: /de/c/gesicht/gesichtsserum/hyaluronsaeure-serum/120203
+          - listitem [ref=e1885]:
+            - link "Glossing für die Haare" [ref=e1886] [cursor=pointer]:
+              - /url: /de/c/haare/haarpflege/glossing-fuer-die-haare/99230111
+          - listitem [ref=e1887]:
+            - link "Pediküre selber machen" [ref=e1888] [cursor=pointer]:
+              - /url: /de/c/naegel/nagelpflege/pedikuere-selber-machen/99210304
+          - listitem [ref=e1889]:
+            - link "Gelnägel selber machen" [ref=e1890] [cursor=pointer]:
+              - /url: /de/c/naegel/nagellack/gelnaegel-selber-machen/99210105
+          - listitem [ref=e1891]:
+            - link "Glätteisen & Haarglätter" [ref=e1892] [cursor=pointer]:
+              - /url: /de/c/haare/styling-tools/glaetteisen/140301
+          - listitem [ref=e1893]:
+            - link "Wimpernserum & Wimpern-Booster" [ref=e1894] [cursor=pointer]:
+              - /url: /de/c/gesicht/augenpflege/wimpernserum/120406
+          - listitem [ref=e1895]:
+            - link "Vitamin C Serum" [ref=e1896] [cursor=pointer]:
+              - /url: /de/c/gesicht/gesichtsserum/vitamin-c-serum/120202
+          - listitem [ref=e1897]:
+            - link "Gesichtscreme" [ref=e1898] [cursor=pointer]:
+              - /url: /de/c/gesicht/gesichtspflege/gesichtscreme/120501
+          - listitem [ref=e1899]:
+            - link "Moringa für die Haare" [ref=e1900] [cursor=pointer]:
+              - /url: /de/c/haare/haarpflege/moringa-fuer-die-haare/99230132
+          - listitem [ref=e1901]:
+            - link "Inhaltsstoffe von Parfums" [ref=e1902] [cursor=pointer]:
+              - /url: /de/c/kosmetik/parfum/inhaltsstoffe-von-parfums/9901024
+          - listitem [ref=e1903]:
+            - link "Haarpflege im Winter" [ref=e1904] [cursor=pointer]:
+              - /url: /de/c/haare/haarpflege/trockenes-haar-und-juckende-kopfhaut-im-winter/99230143
+          - listitem [ref=e1905]:
+            - link "Nagelpflege nach Gelnägeln" [ref=e1906] [cursor=pointer]:
+              - /url: /de/c/naegel/nagelpflege/nagelpflege-nach-gelnaegeln/99210310
+          - listitem [ref=e1907]:
+            - link "Bartöl anwenden" [ref=e1908] [cursor=pointer]:
+              - /url: /de/c/barber-shop-produkte/bart-pflegen/bartoel-anwenden/99220703
+          - listitem [ref=e1909]:
+            - link "Eingewachsene Barthaare" [ref=e1910] [cursor=pointer]:
+              - /url: /de/c/barber-shop-produkte/bart-pflegen/eingewachsene-barthaare/99220704
+      - generic [ref=e1911]:
+        - strong [ref=e1912]: Top-Produkte
+        - list [ref=e1913]:
+          - listitem [ref=e1914]:
+            - link "Douglas Gutschein" [ref=e1915] [cursor=pointer]:
+              - /url: /de/p/3001001433
+          - listitem [ref=e1916]:
+            - link "Douglas PDF Gutschein" [ref=e1917] [cursor=pointer]:
+              - /url: /de/p/5011926058
+          - listitem [ref=e1918]:
+            - link "HUDA BEAUTY Lip Contour Stain Lipliner" [ref=e1919] [cursor=pointer]:
+              - /url: /de/p/5011849080
+          - listitem [ref=e1920]:
+            - link "Yves Saint Laurent Y" [ref=e1921] [cursor=pointer]:
+              - /url: /de/p/3001047078
+          - listitem [ref=e1922]:
+            - link "Prada Paradoxe Parfum" [ref=e1923] [cursor=pointer]:
+              - /url: /de/p/5010687030
+          - listitem [ref=e1924]:
+            - link "Baccarat Rouge 540 Parfum" [ref=e1925] [cursor=pointer]:
+              - /url: /de/p/3001037679
+          - listitem [ref=e1926]:
+            - link "XERJOFF Vibe Erba Pura" [ref=e1927] [cursor=pointer]:
+              - /url: /de/p/5009877070
+          - listitem [ref=e1928]:
+            - link "Davidoff Cool Water Woman" [ref=e1929] [cursor=pointer]:
+              - /url: /de/p/1010706304
+          - listitem [ref=e1930]:
+            - link "DIOR Miss Dior Eau de Parfum" [ref=e1931] [cursor=pointer]:
+              - /url: /de/p/5010207032
+          - listitem [ref=e1932]:
+            - link "Jean Paul Gaultier Scandal" [ref=e1933] [cursor=pointer]:
+              - /url: /de/p/3001038303
+          - listitem [ref=e1934]:
+            - link "Armani Code Homme" [ref=e1935] [cursor=pointer]:
+              - /url: /de/p/1001404304
+          - listitem [ref=e1936]:
+            - link "Dolce & Gabbana Light Blue" [ref=e1937] [cursor=pointer]:
+              - /url: /de/p/1020408304
+          - listitem [ref=e1938]:
+            - link "Chloé Signature Parfum" [ref=e1939] [cursor=pointer]:
+              - /url: /de/p/2010007429
+          - listitem [ref=e1940]:
+            - link "Lancôme La vie est belle" [ref=e1941] [cursor=pointer]:
+              - /url: /de/p/3000056790
+          - listitem [ref=e1942]:
+            - link "Versace Dylan Blue Parfum" [ref=e1943] [cursor=pointer]:
+              - /url: /de/p/3001031505
+          - listitem [ref=e1944]:
+            - link "Estée Lauder Double Wear Foundation" [ref=e1945] [cursor=pointer]:
+              - /url: /de/p/1011518275
+          - listitem [ref=e1946]:
+            - link "Jil Sander Eau de Parfum Spray" [ref=e1947] [cursor=pointer]:
+              - /url: /de/p/3001052525
+          - listitem [ref=e1948]:
+            - link "Kérastase Elixir Ultime Haaröl" [ref=e1949] [cursor=pointer]:
+              - /url: /de/p/5011435010
+          - listitem [ref=e1950]:
+            - link "Burberry Her" [ref=e1951] [cursor=pointer]:
+              - /url: /de/p/3001048261
+          - listitem [ref=e1952]:
+            - link "Viktor & Rolf Spicebomb" [ref=e1953] [cursor=pointer]:
+              - /url: /de/p/3000061370
+          - listitem [ref=e1954]:
+            - link "Versace Eros Flame" [ref=e1955] [cursor=pointer]:
+              - /url: /de/p/3001050632
+          - listitem [ref=e1956]:
+            - link "Paco Rabanne One Million" [ref=e1957] [cursor=pointer]:
+              - /url: /de/p/3000027901
+          - listitem [ref=e1958]:
+            - link "YSL Black Opium Parfum" [ref=e1959] [cursor=pointer]:
+              - /url: /de/p/3001005867
+          - listitem [ref=e1960]:
+            - link "Hugo Boss The Scent for Him" [ref=e1961] [cursor=pointer]:
+              - /url: /de/p/3001016672
+      - generic [ref=e1962]:
+        - strong [ref=e1963]: Top-Aktuell
+        - list [ref=e1964]:
+          - listitem [ref=e1965]:
+            - link "Sonnencreme zum Skifahren" [ref=e1966] [cursor=pointer]:
+              - /url: /de/c/winterwelt/sonnenschutz-beim-skifahren/2201
+          - listitem [ref=e1967]:
+            - link "Lippenpflege im Winter" [ref=e1968] [cursor=pointer]:
+              - /url: /de/c/winterwelt/lippenpflege/2202
+          - listitem [ref=e1969]:
+            - link "Trockene Haut im Winter" [ref=e1970] [cursor=pointer]:
+              - /url: /de/c/winterwelt/trockene-haut/2203
+          - listitem [ref=e1971]:
+            - link "Winterdüfte für Damen" [ref=e1972] [cursor=pointer]:
+              - /url: /de/c/kosmetik/parfum/winterduefte-damen/9901010
+          - listitem [ref=e1973]:
+            - link "Sonnencreme im Winter" [ref=e1974] [cursor=pointer]:
+              - /url: /de/c/sonnenpflege/sonnenpflege-ratgeber/sonnencreme-im-winter/99180109
+          - listitem [ref=e1975]:
+            - link "Valentinstag Geschenke" [ref=e1976] [cursor=pointer]:
+              - /url: /de/c/valentinstag-geschenke/65
+          - listitem [ref=e1977]:
+            - link "Valentinstag Geschenk für Freundin" [ref=e1978] [cursor=pointer]:
+              - /url: /de/c/valentinstag-geschenke/geschenke-fuer-frauen/6501
+          - listitem [ref=e1979]:
+            - link "Valentinstag Geschenk für Männer" [ref=e1980] [cursor=pointer]:
+              - /url: /de/c/valentinstag-geschenke/geschenke-fuer-maenner/6502
+          - listitem [ref=e1981]:
+            - link "Was ist ein Body Mist?" [ref=e1982] [cursor=pointer]:
+              - /url: /de/c/kosmetik/parfum/was-ist-ein-body-mist/9901023
+          - listitem [ref=e1983]:
+            - link "Lockenstab reinigen" [ref=e1984] [cursor=pointer]:
+              - /url: /de/c/haare/haarpflege/lockenstab-reinigen/99230138
+          - listitem [ref=e1985]:
+            - link "Wangenknochen betonen" [ref=e1986] [cursor=pointer]:
+              - /url: /de/c/make-up/make-up-tipps/wangenknochen-betonen/99200240
+          - listitem [ref=e1987]:
+            - 'link "Toner Gesicht: Wofür ist er gut?" [ref=e1988] [cursor=pointer]':
+              - /url: /de/c/hautpflege/hautpflege-basics/toner-gesicht-wofuer-ist-er-gut/99190115
+          - listitem [ref=e1989]:
+            - link "Blue Tansy" [ref=e1990] [cursor=pointer]:
+              - /url: /de/c/hautpflege/hautpflege-themen-trends/blue-tansy/99190827
+          - listitem [ref=e1991]:
+            - link "Bläschen im Nagellack" [ref=e1992] [cursor=pointer]:
+              - /url: /de/c/naegel/nagellack/blaeschen-im-nagellack/99210117
+          - listitem [ref=e1993]:
+            - link "Gesichtsreinigung" [ref=e1994] [cursor=pointer]:
+              - /url: /de/c/hautpflege/hautpflege-basics/gesichtsreinigung/99190114
+          - listitem [ref=e1995]:
+            - link "Antipollution" [ref=e1996] [cursor=pointer]:
+              - /url: /de/c/hautpflege/hautpflege-basics/antipollution/99190116
+          - listitem [ref=e1997]:
+            - link "Sonnenschutz-Drops" [ref=e1998] [cursor=pointer]:
+              - /url: /de/c/sonnenpflege/sonnenpflege-produkte/sonnenschutz-drops/99180314
+          - listitem [ref=e1999]:
+            - link "Wie oft Haare waschen" [ref=e2000] [cursor=pointer]:
+              - /url: /de/c/haare/haarpflege/wie-oft-haare-waschen/99230139
+          - listitem [ref=e2001]:
+            - link "Dauerwelle für kurzes Haar" [ref=e2002] [cursor=pointer]:
+              - /url: /de/c/haare/haarstyling/dauerwelle-fuer-kurze-haare/99230419
+          - listitem [ref=e2003]:
+            - link "Locken pflegen" [ref=e2004] [cursor=pointer]:
+              - /url: /de/c/haare/haarpflege/locken-pflegen/99230140
+          - listitem [ref=e2005]:
+            - link "Wie lange brauchen Augenbrauen zum Nachwachsen?" [ref=e2006] [cursor=pointer]:
+              - /url: /de/c/make-up/make-up-tipps/wie-lange-brauchen-augenbrauen-zum-nachwachsen/99200241
+          - listitem [ref=e2007]:
+            - link "Tipps für glänzende Haare" [ref=e2008] [cursor=pointer]:
+              - /url: /de/c/haare/haarpflege/haare-glaenzend-machen/99230141
+          - listitem [ref=e2009]:
+            - link "Volumen föhnen" [ref=e2010] [cursor=pointer]:
+              - /url: /de/c/haare/haarstyling/volumen-foehnen/99230420
+          - listitem [ref=e2011]:
+            - link "Keratin-Glättung" [ref=e2012] [cursor=pointer]:
+              - /url: /de/c/haare/haarpflege/keratinhaarglaettung/99230142
+          - listitem [ref=e2013]:
+            - link "Aura Nails" [ref=e2014] [cursor=pointer]:
+              - /url: /de/c/naegel/nagellack/aura-nails/99210116
+      - generic [ref=e2015]:
+        - strong [ref=e2016]: Top-Themen
+        - list [ref=e2017]:
+          - listitem [ref=e2018]:
+            - link "Douglas Store Services" [ref=e2019] [cursor=pointer]:
+              - /url: /de/c/douglas-store-services/18
+          - listitem [ref=e2020]:
+            - link "Make-up-Services" [ref=e2021] [cursor=pointer]:
+              - /url: /de/c/douglas-store-services/make-up-services/1801
+          - listitem [ref=e2022]:
+            - link "Tages-Make-up im Store" [ref=e2023] [cursor=pointer]:
+              - /url: /de/c/douglas-store-services/make-up-services/tages-make-up-im-store/180101
+          - listitem [ref=e2024]:
+            - link "Abend-Make-up im Store" [ref=e2025] [cursor=pointer]:
+              - /url: /de/c/douglas-store-services/make-up-services/abend-make-up-im-store/180102
+          - listitem [ref=e2026]:
+            - link "Kostenlose Rituale im Store" [ref=e2027] [cursor=pointer]:
+              - /url: /de/c/douglas-store-services/kostenlose-rituale-im-store/1802
+          - listitem [ref=e2028]:
+            - link "Studentenrabatt" [ref=e2029] [cursor=pointer]:
+              - /url: /de/c/studentenrabatt/9926
+          - listitem [ref=e2030]:
+            - link "Douglas Angebote" [ref=e2031] [cursor=pointer]:
+              - /url: /de/cp/angebote/angebote
+          - listitem [ref=e2032]:
+            - link "Geschenkverpackung" [ref=e2033] [cursor=pointer]:
+              - /url: /de/c/geschenke/premium-geschenkbox/0815
+          - listitem [ref=e2034]:
+            - link "Make-up Trends 2026" [ref=e2035] [cursor=pointer]:
+              - /url: /de/c/make-up/make-up-looks/make-up-trends/99200333
+          - listitem [ref=e2036]:
+            - link "Taschen Trends 2026" [ref=e2037] [cursor=pointer]:
+              - /url: /de/c/taschentrends/9917
+          - listitem [ref=e2038]:
+            - link "Douglas Beauty Card" [ref=e2039] [cursor=pointer]:
+              - /url: /de/c/douglas-services/douglas-beauty-card/2604
+          - listitem [ref=e2040]:
+            - link "Click & Collect" [ref=e2041] [cursor=pointer]:
+              - /url: /de/c/douglas-services/click-collect/2601
+          - listitem [ref=e2042]:
+            - link "Click & Return" [ref=e2043] [cursor=pointer]:
+              - /url: /de/c/douglas-services/click-return/2602
+          - listitem [ref=e2044]:
+            - link "DOUGLAS App" [ref=e2045] [cursor=pointer]:
+              - /url: /de/c/douglas-services/app/2605
+          - listitem [ref=e2046]:
+            - link "Make-up virtuell testen" [ref=e2047] [cursor=pointer]:
+              - /url: /de/c/douglas-services/app/beauty-mirror/260501
+          - listitem [ref=e2048]:
+            - link "Hautanalyse App" [ref=e2049] [cursor=pointer]:
+              - /url: /de/c/douglas-services/app/hautanalyse/260502
+          - listitem [ref=e2050]:
+            - link "Douglas Events" [ref=e2051] [cursor=pointer]:
+              - /url: /de/c/store-events/71
+          - listitem [ref=e2052]:
+            - link "J-Beauty" [ref=e2053] [cursor=pointer]:
+              - /url: /de/c/make-up/beauty-storys/beauty-trend-j-beauty/032001
+          - listitem [ref=e2054]:
+            - link "Dehydrierte Haut" [ref=e2055] [cursor=pointer]:
+              - /url: /de/c/hautpflege/hautzustaende-routinen/dehydrierte-haut/99190224
+          - listitem [ref=e2056]:
+            - link "Retinal" [ref=e2057] [cursor=pointer]:
+              - /url: /de/c/hautpflege/pflegende-inhaltsstoffe/retinal/99190437
+          - listitem [ref=e2058]:
+            - link "Glutathion" [ref=e2059] [cursor=pointer]:
+              - /url: /de/c/hautpflege/pflegende-inhaltsstoffe/glutathion/99190438
+          - listitem [ref=e2060]:
+            - link "Locken stylen" [ref=e2061] [cursor=pointer]:
+              - /url: /de/c/haare/haarstyling/locken-stylen/99230422
+          - listitem [ref=e2062]:
+            - link "Haarreif richtig tragen" [ref=e2063] [cursor=pointer]:
+              - /url: /de/c/haare/haarstyling/haarreif-richtig-tragen/99230421
+          - listitem [ref=e2064]:
+            - link "Wie oft sollte man duschen?" [ref=e2065] [cursor=pointer]:
+              - /url: /de/c/hautpflege/hautpflege-basics/wie-oft-sollte-man-duschen/99190112
+          - listitem [ref=e2066]:
+            - link "Was bedeutet komedogen?" [ref=e2067] [cursor=pointer]:
+              - /url: /de/c/hautpflege/hautpflege-basics/was-bedeutet-komedogen/99190113
+```

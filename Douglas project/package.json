@@ -1,0 +1,13 @@
+{
+  "name": "douglas-automation",
+  "version": "1.0.0",
+  "description": "Douglas website automation with Playwright",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:debug": "playwright test --debug"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.40.0"
+  }
+}
